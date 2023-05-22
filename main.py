@@ -55,8 +55,8 @@ def appendData(varList, varData):
 
 # Querying data from a range of tracks
 i = 0
-for x in range(0,1000):
-    track_results = sp.search(q='year:2023', type='track', limit=1,offset=x+999)
+for x in range(1,2):
+    track_results = sp.search(q='year:2023', type='track', limit=1,offset=x)
     print('Query done \n')
     for x, t in enumerate(track_results['tracks']['items']):
         appendData(artist_name,t['artists'][0]['name'])
@@ -81,4 +81,7 @@ track_dataframe = pd.DataFrame({'track_id' : track_id, 'track_name' : track_name
 print(track_dataframe.shape)
 track_dataframe.head()
 
-track_dataframe.to_csv('spotify23-1.csv', encoding='utf-8')
+track_dataframe.to_csv('spotify23-2.csv', encoding='utf-8')
+
+
+# This resulted in the collection of only 1000 tracks
