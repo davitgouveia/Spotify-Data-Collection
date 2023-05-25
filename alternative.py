@@ -63,6 +63,7 @@ def getTrackFeatures(varTrackID):
         appendData(valence,tf['valence'])
         appendData(tempo,tf['tempo'])
         appendData(time_signature,tf['time_signature'])
+        
     print('Got Track Features \n')
 
 def appendData(varList, varData):
@@ -71,9 +72,12 @@ def appendData(varList, varData):
     else:
         varList.append(varData)
 
+i = 0
 # Querying data from artists
-for x in range(0,10):
-    artist_search = sp.search(q='year:2023', type='artist', limit=1,offset=x)
+for x in range(0,100):
+    i = i + 1
+    print(i)
+    artist_search = sp.search(q='year:2023', type='artist', limit=1,offset=x+645)
     print('Query done \n')
     for y, a in enumerate(artist_search['artists']['items']):
         appendData(artist_name,a['name'])
@@ -108,7 +112,7 @@ df = df.transpose()
 print(df.shape)
 df.head()
 
-df.to_csv('spotify23-2.csv', encoding='utf-8')
+df.to_csv('spotify23-final-7.1.csv', encoding='utf-8')
 
 print(artist_name)
 
