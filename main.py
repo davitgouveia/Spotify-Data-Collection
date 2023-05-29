@@ -9,8 +9,14 @@ sp = spotipy.Spotify(client_credentials_manager
 =
 client_credentials_manager)
 
+# Script Workflow: 
+# 1- Searches for artists and save their ID
+# 2- Search for artists top tracks and append them
+# 3- Query further information from trackes appended
+
 # Creating Lists
 artist_name = []
+artist_id = []
 track_name = []
 popularity = []
 track_id = []
@@ -30,9 +36,23 @@ valence = []
 tempo = []
 time_signature = []
 
+def getTopTracks(varArtistID,varArtistName):
+    toptracks_search = sp.artist_top_tracks(varArtistID, country='BR')
+    for z, tp in enumerate(toptracks_search['tracks']):
+        appendData(artist_name,varArtistName)
+        appendData(artist_id,varArtistID)
+        appendData(track_id,tp['id'])
+        appendData(track_name,tp['name'])
+        appendData(album_name,tp['album']['name'])
+        appendData(popularity,tp['popularity'])
+        appendData(explicit,tp['explicit'])
+        appendData(duration_ms,tp['duration_ms'])
+        trackID = tp['id']
+        getTrackFeatures(trackID)
+
 def getTrackFeatures(varTrackID):
     track_features_result = sp.audio_features(tracks=['{}'.format(varTrackID)])
-    for y, tf in enumerate(track_features_result):
+    for w, tf in enumerate(track_features_result):
         appendData(danceability,tf['danceability'])
         appendData(energy,tf['energy'])
         appendData(key,tf['key'])
@@ -45,6 +65,7 @@ def getTrackFeatures(varTrackID):
         appendData(valence,tf['valence'])
         appendData(tempo,tf['tempo'])
         appendData(time_signature,tf['time_signature'])
+        
     print('Got Track Features \n')
 
 def appendData(varList, varData):
@@ -53,35 +74,35 @@ def appendData(varList, varData):
     else:
         varList.append(varData)
 
-# Querying data from a range of tracks
+
+# Querying data from artists
+# Set how much data will be collected in the for loop range. 
+# Eg. a range of 100 means 1000 tracks.
 i = 0
-for x in range(1,2):
-    track_results = sp.search(q='year:2023', type='track', limit=1,offset=x)
+for x in range(0,2):
+    i = i + 1
+    print(i)
+    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='BR', offset=x)
     print('Query done \n')
-    for x, t in enumerate(track_results['tracks']['items']):
-        appendData(artist_name,t['artists'][0]['name'])
-        appendData(track_name,t['name'])
-        appendData(track_id,t['id'])
-        appendData(album_name,t['album']['name'])
-        appendData(popularity,t['popularity'])
-        appendData(explicit,t['explicit'])
-        appendData(duration_ms,t['duration_ms'])
-        trackID = t['id']
-        getTrackFeatures(trackID)
-        i = i+1
-        print('Appending track data {} \n'.format(i))
+    for y, a in enumerate(artist_search['artists']['items']):
+        appendData(artist_name,a['name'])
+        artistName = a['name']
+        appendData(artist_id,a['id'])
+        artistID = a['id']
+        getTopTracks(artistID,artistName)
 
 print('------------------------------ \nAll tracks appended \n')
         
 # Generating Dataframe with Pandas
-track_dataframe = pd.DataFrame({'track_id' : track_id, 'track_name' : track_name, 'artist_name' : artist_name, 'album_name' : album_name, 'popularity' : popularity,
-                                 'duration_ms' : duration_ms, 'explicit' : explicit, 'danceability' : danceability,
-                                 'energy' : energy, 'key' : key, 'loudness' : loudness, 'mode' : mode, 'speechiness' : speechiness, 'acousticness' : acousticness,
-                                 'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature})
-print(track_dataframe.shape)
-track_dataframe.head()
+a = {'track_id' : track_id, 'track_name' : track_name, 'artist_name' : artist_name, 'album_name' : album_name, 'artist_id' : artist_id,
+    'popularity' : popularity, 'duration_ms' : duration_ms, 'explicit' : explicit, 'danceability' : danceability,
+    'energy' : energy, 'key' : key, 'loudness' : loudness, 'mode' : mode, 'speechiness' : speechiness, 'acousticness' : acousticness,
+    'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature}
 
-track_dataframe.to_csv('spotify23-2.csv', encoding='utf-8')
+df = pd.DataFrame.from_dict(a, orient='index')
 
+df = df.transpose()
 
-# This resulted in the collection of only 1000 tracks
+print(df.shape)
+
+df.to_csv('spotify23-final-16.csv', encoding='utf-8')
