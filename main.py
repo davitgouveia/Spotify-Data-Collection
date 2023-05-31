@@ -49,6 +49,7 @@ def getTopTracks(varArtistID,varArtistName):
         appendData(duration_ms,tp['duration_ms'])
         trackID = tp['id']
         getTrackFeatures(trackID)
+    toptracks_search = None
 
 def getTrackFeatures(varTrackID):
     track_features_result = sp.audio_features(tracks=['{}'.format(varTrackID)])
@@ -74,30 +75,27 @@ def appendData(varList, varData):
     else:
         varList.append(varData)
 
-
 # Querying data from artists
 # Set how much data will be collected in the for loop range. 
 # Eg. a range of 100 means 1000 tracks.
 i = 0
-for x in range(0,2):
+
+for x in range(0,50):
     i = i + 1
     print(i)
-    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='BR', offset=x)
+    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='BR', offset=x+798)
     print('Query done \n')
     for y, a in enumerate(artist_search['artists']['items']):
-        appendData(artist_name,a['name'])
         artistName = a['name']
-        appendData(artist_id,a['id'])
         artistID = a['id']
         getTopTracks(artistID,artistName)
-
 print('------------------------------ \nAll tracks appended \n')
         
 # Generating Dataframe with Pandas
 a = {'track_id' : track_id, 'track_name' : track_name, 'artist_name' : artist_name, 'album_name' : album_name, 'artist_id' : artist_id,
-    'popularity' : popularity, 'duration_ms' : duration_ms, 'explicit' : explicit, 'danceability' : danceability,
-    'energy' : energy, 'key' : key, 'loudness' : loudness, 'mode' : mode, 'speechiness' : speechiness, 'acousticness' : acousticness,
-    'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature}
+        'popularity' : popularity, 'duration_ms' : duration_ms, 'explicit' : explicit, 'danceability' : danceability,
+        'energy' : energy, 'key' : key, 'loudness' : loudness, 'mode' : mode, 'speechiness' : speechiness, 'acousticness' : acousticness,
+        'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature}
 
 df = pd.DataFrame.from_dict(a, orient='index')
 
@@ -105,4 +103,4 @@ df = df.transpose()
 
 print(df.shape)
 
-df.to_csv('spotify23-final-16.csv', encoding='utf-8')
+df.to_csv('spotify23-BR-17.csv', encoding='utf-8')
