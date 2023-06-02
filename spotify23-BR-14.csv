@@ -1,0 +1,488 @@
+,track_id,track_name,artist_name,album_name,artist_id,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature
+0,08PxSFCTjMjLWiKkS22CAD,Movimento,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,53,198620,False,0.541,0.693,1,-3.886,1,0.37,0.157,0,0.162,0.373,173.986,5
+1,20nEdTuTMTPITRyiaPNCnP,Amor Virou Um Prêmio,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,59,219692,False,0.59,0.504,5,-4.33,0,0.216,0.13,0,0.0917,0.429,178.094,4
+2,5VV6Ct1vdLBCA6gwsvgHi7,Corações No Inverno,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,44,161785,False,0.643,0.624,10,-5.533,0,0.0385,0.194,0,0.155,0.489,111.953,4
+3,1XoudmtMU5ymdZodLuWvSu,Levante,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,44,186461,True,0.611,0.556,0,-6.044,0,0.0921,0.415,3.47e-06,0.114,0.155,84.001,4
+4,3xBXAZjrfwp1EWafdCGkUz,Armadura,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,42,221423,False,0.587,0.658,5,-7.383,0,0.425,0.323,0,0.1,0.544,113.373,3
+5,5MCMs5vSz2aiaqfXRfN5Sp,Não Cai,JD On Tha Track,Levante,399fRDjZglRcNLNEDobdt4,42,144583,False,0.48,0.621,5,-4.226,0,0.0612,0.276,0,0.118,0.541,95.826,3
+6,7bXQImbAJzi0ivSjQDZdp2,Olhos,JD On Tha Track,Além dos Satélites: Missão Renova,399fRDjZglRcNLNEDobdt4,30,210883,True,0.743,0.675,11,-7.265,0,0.0359,0.146,0,0.209,0.598,140.002,4
+7,4bUsqyrkgoZOVh6wYqjzOH,These Days,JD On Tha Track,These Days,399fRDjZglRcNLNEDobdt4,29,128000,True,0.57,0.51,6,-11.262,0,0.414,0.0025,0,0.0983,0.366,78.792,4
+8,47Byjayhsm8yeVmhyuUKFW,BB,JD On Tha Track,BB,399fRDjZglRcNLNEDobdt4,27,174951,True,0.872,0.749,1,-7.516,1,0.06,0.0159,2.73e-06,0.049,0.412,99.011,3
+9,2DUZUw4AbpBjI2LxtV7c3l,Bala e Doce,JD On Tha Track,O Cara Que Não Presta,399fRDjZglRcNLNEDobdt4,23,192911,True,0.723,0.615,1,-5.065,1,0.042,0.0483,0,0.102,0.405,158.027,4
+10,3Q36LH3rlABCEt4JMLbD8p,Vergonha pra Mídia (feat. MC Ryan SP & Mc Lele JP),Salvador Da Rima,Vergonha pra Mídia (feat. MC Ryan SP & Mc Lele JP),3zUcyANWSbo98ikca4ugrV,62,385357,True,0.814,0.671,0,-6.813,1,0.297,0.219,0,0.0736,0.593,83.944,4
+11,7zcQ56JRoNd4JAwGKcrxiZ,Sigo na Fé do Pai,Salvador Da Rima,Sigo na Fé do Pai,3zUcyANWSbo98ikca4ugrV,59,264827,False,0.499,0.762,6,-4.163,0,0.453,0.141,0,0.0988,0.622,173.262,4
+12,61UChgVhY8bn2mIIKVGAdF,Outfit Valioso,Salvador Da Rima,Outfit Valioso,3zUcyANWSbo98ikca4ugrV,54,263414,False,0.836,0.559,1,-5.429,0,0.319,0.549,0,0.117,0.837,164.194,4
+13,0S8wE0j00zo0giZ2PkWmUD,Estilo Coyote,Salvador Da Rima,Estilo Coyote,3zUcyANWSbo98ikca4ugrV,52,174211,True,0.803,0.489,5,-8.437,0,0.437,0.437,0,0.0895,0.785,92.035,4
+14,5NUfJGf1cH8uVErsVsqttY,Favela Win,Salvador Da Rima,Favela Win,3zUcyANWSbo98ikca4ugrV,51,336000,False,0.607,0.452,8,-6.829,0,0.537,0.616,0,0.0645,0.567,159.317,4
+15,0U8J0dZwaFFwCBhxkoGWtK,Outfit Valioso 2,Salvador Da Rima,Outfit Valioso 2,3zUcyANWSbo98ikca4ugrV,51,296480,True,0.704,0.717,8,-1.695,0,0.38,0.533,0,0.205,0.531,134.03,3
+16,7aYMYfNYUBdkfR8JG00JvK,Tempinho Bom,Salvador Da Rima,Tempinho Bom,3zUcyANWSbo98ikca4ugrV,50,207281,False,0.775,0.629,2,-7.958,0,0.0579,0.337,6.19e-06,0.122,0.429,114.905,4
+17,0oFlsBCVASjwqcGFIzhZtC,Véinho de Virtude,Salvador Da Rima,"Só Quero Que Me Escute, Pt. 1",3zUcyANWSbo98ikca4ugrV,50,202000,True,0.62,0.787,6,-6.738,0,0.12,0.00873,0,0.0951,0.687,170.179,4
+18,1jjmqxL4LmMpjEqOQCAZfT,Conto as Horas,Salvador Da Rima,Conto as Horas,3zUcyANWSbo98ikca4ugrV,47,170666,True,0.755,0.528,3,-5.919,0,0.51,0.318,0,0.193,0.434,89.97,4
+19,3xEYmdp7hQKQBKOorimBs4,Vim da Lama,Salvador Da Rima,Vim da Lama,3zUcyANWSbo98ikca4ugrV,46,156521,True,0.65,0.22,9,-19.913,1,0.463,0.184,0,0.109,0.246,93.167,4
+20,3pUQEJXwmnooceL5DqluNA,Borbulhas de Amor (Tenho um Coração) [Borbujas de Amor],Fagner,Pedras Que Cantam,5j3htXVskZF0u8qWY5zcF8,60,249280,False,0.67,0.523,11,-11.508,1,0.0314,0.685,0,0.136,0.693,126.474,4
+21,1DcKuTqFYTYTTERUwTeEUS,Espumas ao Vento,Fagner,Terral,5j3htXVskZF0u8qWY5zcF8,58,244533,False,0.55,0.48,9,-7.707,0,0.0572,0.81,1.61e-05,0.337,0.368,71.078,4
+22,4jql26gU6eKg2zbCOCW3Zs,Garoto de Aluguel (Taxi Boy) [Ao Vivo],Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,54,176800,False,0.472,0.636,4,-8.266,0,0.0375,0.467,0.00229,0.662,0.318,90.841,4
+23,2ReXjoXXQ6diAn9RocOE1F,Deslizes,Fagner,Romance no Deserto,5j3htXVskZF0u8qWY5zcF8,54,252000,False,0.54,0.394,11,-15.022,1,0.0284,0.244,0,0.316,0.49,136.48,4
+24,28IXLE3uhY2qgRO9cGkiXr,Canteiros,Fagner,Ensaio,5j3htXVskZF0u8qWY5zcF8,52,329429,False,0.436,0.27,2,-17.508,1,0.0462,0.865,0.00127,0.189,0.421,140.012,4
+25,1zcjHt9arIUCLzxHT1dans,Noturno (Coração Alado) - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,49,260826,False,0.507,0.312,9,-10.293,1,0.0534,0.82,2.27e-06,0.769,0.276,112.656,4
+26,2FKAGYMJqOP79Rys9EWzy1,Chão de Giz - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,49,284840,False,0.456,0.364,7,-9.691,1,0.0354,0.821,3.13e-05,0.927,0.277,139.809,3
+27,0ghs5Ei5AruXBHL7nxTeJn,Lembra - Ao Vivo,Fagner,Lembra (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,46,159900,False,0.599,0.907,0,-6.295,1,0.0399,0.546,1.56e-05,0.901,0.851,155.966,4
+28,3DMpOz3QWFtOmr9TCgRLdI,Vem Morena,Fagner,Festa,5j3htXVskZF0u8qWY5zcF8,48,204883,False,0.691,0.745,10,-10.199,1,0.041,0.0623,1.22e-05,0.144,0.787,109.933,4
+29,5KckLw681trX1tHpLg9xs4,Romance no Deserto (Romance in Durango) - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,47,244760,False,0.644,0.598,7,-6.507,1,0.0497,0.706,0,0.681,0.644,125.057,4
+30,1ttR4WB57ZZQqVBGiUZVis,Mais Uma,ZAAC,Mais Uma,76Xa625geVw0Q7BdyxNjA2,69,127068,True,0.934,0.566,1,-6.577,1,0.0842,0.17,3.01e-05,0.0747,0.74,126.885,4
+31,6u0EAxf1OJTLS7CvInuNd7,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),ZAAC,Vai malandra (feat. Tropkillaz & DJ Yuri Martins),76Xa625geVw0Q7BdyxNjA2,66,201532,False,0.876,0.55,2,-5.464,1,0.152,0.0227,4.52e-05,0.294,0.557,129.924,4
+32,4zGtfOglDBfVUypabBwIjQ,Desce Pro Play (PA PA PA),ZAAC,Desce Pro Play (PA PA PA),76Xa625geVw0Q7BdyxNjA2,63,168507,False,0.935,0.71,11,-5.085,0,0.158,0.0769,1.92e-06,0.173,0.635,100.009,4
+33,41RtcX3L4Ee6AzgZEBkMFC,Vai Embrazando,ZAAC,Vai Embrazando,76Xa625geVw0Q7BdyxNjA2,62,166060,False,0.891,0.7,1,-1.123,1,0.0627,0.17,6.96e-05,0.0602,0.793,129.998,4
+34,7pDcS0EVMJR0YwjXmHcCRg,TOMA,ZAAC,TOMA,76Xa625geVw0Q7BdyxNjA2,58,129654,False,0.762,0.597,5,-5.306,0,0.282,0.0999,0,0.19,0.267,75.063,4
+35,34dog9xj3M5dcUcpcMyCNf,Ponto de Brasa,ZAAC,Ponto de Brasa,76Xa625geVw0Q7BdyxNjA2,54,160967,False,0.797,0.613,10,-8.971,0,0.0723,0.0264,0,0.101,0.483,93.018,4
+36,4hjUqN9S84dPLGdlUufp0c,Potência,ZAAC,Potência,76Xa625geVw0Q7BdyxNjA2,50,179025,False,0.782,0.846,1,-5.255,1,0.0457,0.0636,0,0.0932,0.822,134.954,4
+37,13OjXw518Bu5ycBRD58484,Mais Uma - JS O Mão de Ouro Remix,ZAAC,Mais Uma (JS O Mão de Ouro Remix),76Xa625geVw0Q7BdyxNjA2,46,156724,True,0.832,0.835,7,-5.238,0,0.0464,0.381,9.82e-05,0.174,0.961,144.973,4
+38,0srOtagQOCv20rQQjb9Tk1,Pirata e Tesouro / Duas Paixões / Idem / Livre pra Voar / Oi Amor - Ao Vivo,ZAAC,Encontrin (Ao Vivo),76Xa625geVw0Q7BdyxNjA2,38,480463,False,0.376,0.697,7,-7.367,1,0.0928,0.809,0,0.837,0.798,86.646,4
+39,7d0lIrxWMu4GwnuRBxGXLu,Que País É Este,ZAAC,Que País É Este,76Xa625geVw0Q7BdyxNjA2,44,149149,False,0.653,0.633,4,-6.193,0,0.0674,0.00588,0,0.0738,0.634,140.147,4
+40,4ewVY1OIA2ud9D58zjD7Ll,Vou Morar no Cabaré,GORDÃO DO PC,Vou Morar no Cabaré,34BnNmWVguXa3CigvfHJHS,64,105461,True,0.877,0.615,2,-5.109,1,0.321,0.738,0,0.737,0.651,130.205,4
+41,5uG80UIK6Tl9VZBG2vWSft,Vagabundo Nato,GORDÃO DO PC,Vagabundo Nato,34BnNmWVguXa3CigvfHJHS,57,136345,True,0.942,0.669,6,-0.316,1,0.203,0.726,0,0.141,0.787,130.059,4
+42,4K00zaEn2qNs9ZItOLJmuN,"1,65 de Altura",GORDÃO DO PC,Meu Complexo,34BnNmWVguXa3CigvfHJHS,56,168881,True,0.818,0.596,4,-4.113,1,0.81,0.382,1.42e-05,0.189,0.62,129.653,4
+43,35oS3GLitTUcrxI6PNdKbD,Roct Pot 02 (Mc Laranjinha),GORDÃO DO PC,Roct Pot 02 (Mc Laranjinha),34BnNmWVguXa3CigvfHJHS,55,107076,True,0.819,0.759,7,0.591,1,0.295,0.37,0.00792,0.0863,0.761,86.059,5
+44,00kPaf5kR6D1VmpU6wgfJd,Trem Mais Caro,GORDÃO DO PC,Trem Mais Caro,34BnNmWVguXa3CigvfHJHS,54,168048,True,0.957,0.69,6,-2.233,0,0.164,0.165,2.15e-06,0.0736,0.76,130.009,4
+45,2ZJTnpCp73UwYp7gYt2WRF,Mtg Vou Machucar,GORDÃO DO PC,Mtg Vou Machucar,34BnNmWVguXa3CigvfHJHS,52,168800,True,0.615,0.51,0,-0.82,1,0.341,0.385,3.54e-05,0.133,0.256,78.558,5
+46,1qOXYxJaVmo7K1mjYfI07v,Olha na Minha Cara,GORDÃO DO PC,Olha na Minha Cara,34BnNmWVguXa3CigvfHJHS,52,140307,True,0.712,0.461,8,-4.194,1,0.553,0.778,0.0682,0.114,0.699,130.147,4
+47,2MmgRfp3WhCirNjZNtGxh8,Vai Pega Nunca,GORDÃO DO PC,Vai Pega Nunca,34BnNmWVguXa3CigvfHJHS,52,184615,True,0.935,0.535,0,-3.179,1,0.138,0.0979,2.4e-05,0.0724,0.366,129.913,4
+48,6SekvG3rjJOmnbcg3xI2s5,Alguém tem Isqueiro 2,GORDÃO DO PC,De Volta as Origens,34BnNmWVguXa3CigvfHJHS,50,127384,True,0.686,0.624,11,-3.311,0,0.352,0.676,0.00268,0.0492,0.755,81.364,5
+49,7KWFEntOfbmGpXF9r6wmvu,Cheia de Fogo,GORDÃO DO PC,Cheia de Fogo,34BnNmWVguXa3CigvfHJHS,50,147692,True,0.95,0.85,10,0.492,0,0.0667,0.552,0.000519,0.0562,0.784,130.046,4
+50,4L9XGAYgA3Q04qecyjV7iB,Estou Apaixonado - Ao Vivo,Cezar & Paulinho,Daniel 40 Anos: Celebra João Paulo & Daniel (Ao Vivo),0padwH2BcP3olMtXhfW24N,63,283733,False,0.395,0.751,0,-5.505,1,0.0447,0.294,0,0.714,0.32,111.864,4
+51,4Bz8KMbKvolQkLtiduSbDb,Aos Trancos e Barrancos - Ao Vivo,Cezar & Paulinho,Daniel 40 Anos: Celebra João Paulo & Daniel (Ao Vivo),0padwH2BcP3olMtXhfW24N,47,226015,False,0.616,0.953,2,-4.483,1,0.0579,0.0815,0,0.833,0.693,133.057,4
+52,6ZIWDsM8XdctTUEoyN1EHM,Duas Vezes Você - Ao Vivo,Cezar & Paulinho,Cezar & Paulinho 40 Anos (Ao Vivo),0padwH2BcP3olMtXhfW24N,52,205560,False,0.447,0.688,7,-4.756,1,0.0413,0.292,0,0.923,0.38,154.003,4
+53,4564TlXwiccDJBLHTytD4m,Morto de Saudade Sua - Ao Vivo,Cezar & Paulinho,Cezar & Paulinho 40 Anos (Ao Vivo),0padwH2BcP3olMtXhfW24N,50,185275,False,0.469,0.798,7,-3.783,1,0.0373,0.265,0,0.705,0.216,149.608,4
+54,1SsJvWTHocGNGoRinY6Vg9,Morto de saudade sua,Cezar & Paulinho,Grandes Sucessos,0padwH2BcP3olMtXhfW24N,49,199121,False,0.579,0.604,7,-6.773,1,0.0274,0.665,0,0.125,0.283,138.014,4
+55,5TDmdYEnP5KBeK068PEVNl,Duas Vezes Você,Cezar & Paulinho,Discografia Ouro e Prata,0padwH2BcP3olMtXhfW24N,49,210053,False,0.641,0.45,7,-4.321,1,0.0317,0.674,0,0.0996,0.241,84.955,4
+56,23BYKSpVWcz6yPBhE6B7wm,Terra Tombada - Ao Vivo,Cezar & Paulinho,"Alma Sertaneja, Vol. 2 (Ao Vivo)",0padwH2BcP3olMtXhfW24N,49,238333,False,0.393,0.616,8,-5.697,1,0.0459,0.635,0,0.38,0.566,169.814,4
+57,4utYKY4RH8nqxQNoX7xzbQ,Dia de Visita - Ao Vivo,Cezar & Paulinho,Daniel 40 Anos: Celebra João Paulo & Daniel (Ao Vivo),0padwH2BcP3olMtXhfW24N,44,247863,False,0.415,0.807,4,-4.176,1,0.0686,0.403,0,0.78,0.628,127.19,4
+58,5wCcjjlXScSaKsHywDVj8E,Franguinho Na Panela - Ao Vivo,Cezar & Paulinho,"Alma Sertaneja, Vol. 2 (Ao Vivo)",0padwH2BcP3olMtXhfW24N,47,210800,False,0.713,0.676,9,-6.413,1,0.0353,0.735,0,0.885,0.789,109.987,3
+59,08Q57kRnoP0CO7msizoJjl,Seu Amor Ainda É Tudo,Cezar & Paulinho,Companheiro É Companheiro,0padwH2BcP3olMtXhfW24N,42,252600,False,0.436,0.619,0,-6.905,1,0.0467,0.679,2.11e-05,0.306,0.562,184.02,3
+60,3KVF4VK0Kclakez9LCGYga,Promessas (Promises) - Ao Vivo,Sarah Beatriz,Promessas (Promises) [Ao Vivo],5eo3eRvCHJhgMDL6K1cbMT,67,347927,False,0.288,0.654,11,-7.57,1,0.0473,0.31,0,0.913,0.403,113.143,4
+61,4lILbjkdIihRgg3Z1QP5Qh,O Medo Não Vai Me Parar - Ao Vivo,Sarah Beatriz,O Medo Não Vai Me Parar (Ao Vivo),5eo3eRvCHJhgMDL6K1cbMT,62,303346,False,0.409,0.584,0,-7.122,1,0.0334,0.339,3.39e-06,0.339,0.367,139.934,4
+62,0satRlTjJoDmTqOl8mmmy0,O Maior Vilão Sou Eu,Sarah Beatriz,Basta Acreditar,5eo3eRvCHJhgMDL6K1cbMT,60,273072,False,0.502,0.51,4,-9.658,1,0.0255,0.502,0,0.0793,0.192,96.149,4
+63,0BUKz3V1yW6HPVzYuXlUIU,Todavia Me Alegrarei - Ao Vivo,Sarah Beatriz,Todavia Me Alegrarei (Ao Vivo),5eo3eRvCHJhgMDL6K1cbMT,58,291386,False,0.298,0.733,5,-6.447,0,0.0529,0.0309,0,0.743,0.234,145.061,4
+64,1Tox82hir9fKOLRl70XeD3,Quero Voltar Pra Casa - Ao Vivo,Sarah Beatriz,Quero Voltar Pra Casa (Ao Vivo),5eo3eRvCHJhgMDL6K1cbMT,57,365080,False,0.308,0.528,4,-8.09,1,0.0368,0.301,0,0.176,0.233,71.74,4
+65,7GS79FeueziyFCnWXg2il8,Redentor,Sarah Beatriz,Eu Tenho Você,5eo3eRvCHJhgMDL6K1cbMT,35,382272,False,0.43,0.706,0,-7.743,1,0.0538,0.235,0,0.107,0.085,131.816,4
+66,30QU4RJntz98HlLOlkRgew,Canta,Sarah Beatriz,Canta,5eo3eRvCHJhgMDL6K1cbMT,52,264697,False,0.228,0.634,8,-5.333,1,0.0354,0.145,0,0.0835,0.111,172.285,4
+67,1HyP1gEk4yLdtxkwOf8Li5,Meu Pai Governa,Sarah Beatriz,Meu Pai Governa,5eo3eRvCHJhgMDL6K1cbMT,52,452000,False,0.364,0.72,11,-6.78,1,0.087,0.0131,0,0.714,0.149,139.785,4
+68,50RxCp8dmcpd5P66b95u68,Outro Na Fornalha (Another In The Fire) - Ao Vivo,Sarah Beatriz,Outro Na Fornalha (Another In The Fire) [Ao Vivo],5eo3eRvCHJhgMDL6K1cbMT,45,269840,False,0.557,0.758,7,-6.165,1,0.0414,0.324,3.34e-06,0.0838,0.192,129.924,4
+69,5CyCqSgL6Df4WoXo2eQVcJ,Eu Creio (Believe For It) - Ao Vivo,Sarah Beatriz,Eu Creio (Believe For It) [Ao Vivo],5eo3eRvCHJhgMDL6K1cbMT,46,421893,False,0.317,0.623,7,-7.461,1,0.0375,0.0341,0,0.136,0.154,157.638,4
+70,3o5LmE0gNsEBwz7VCmc3bV,Problemão - Ao Vivo,Hugo & Vitor,Problemão (Ao Vivo),3rbG069NuFKBCXYPoGjB9g,60,137957,False,0.582,0.891,1,-4.709,1,0.0947,0.538,0,0.378,0.661,155.907,3
+71,1Kpoclgno2cn7cDOVCi3KY,Não Nego Um Vamo,Hugo & Vitor,No Meio Disso Tudo,3rbG069NuFKBCXYPoGjB9g,31,153462,False,0.509,0.96,2,-3.502,1,0.0681,0.218,0,0.128,0.729,174.949,4
+72,7ck4Sp3iyD3R5Ut2ok8Gte,Férias - Ao Vivo,Hugo & Vitor,Férias (Ao Vivo),3rbG069NuFKBCXYPoGjB9g,39,147903,False,0.752,0.848,8,-4.919,0,0.0722,0.621,0,0.284,0.733,115.07,4
+73,4Yp7fiaQUkC24Ua4Ck5ubj,Amei Ninguém - Ao Vivo,Hugo & Vitor,Em Qualquer Lugar (Ao Vivo),3rbG069NuFKBCXYPoGjB9g,24,156773,False,0.58,0.819,1,-4.216,1,0.0574,0.172,0,0.119,0.841,157.693,4
+74,6mP5GzVKlQm7AT7YMhyLkY,Mudei Demais,Hugo & Vitor,No Meio Disso Tudo,3rbG069NuFKBCXYPoGjB9g,35,186990,False,0.513,0.633,6,-5.935,1,0.0365,0.725,0,0.104,0.703,117.284,5
+75,3dx2Gg6NFjsso6UQ1hv5BP,Intenso - Ao Vivo,Hugo & Vitor,Respeita Minha Dupla (Ao Vivo / Vol. 1),3rbG069NuFKBCXYPoGjB9g,34,163067,False,0.726,0.764,1,-5.704,1,0.0286,0.579,0,0.136,0.733,112.977,4
+76,22s7MnqEhEdwZ48r5kgH8C,Sua Cama Não Explica Nada,Hugo & Vitor,No Meio Disso Tudo,3rbG069NuFKBCXYPoGjB9g,23,175102,False,0.534,0.895,1,-4.217,1,0.0579,0.431,0,0.393,0.612,160.12,4
+77,0vGdEDUNBCwUwqqQ2p3VsQ,Vou Ter Que Superar - Ao Vivo,Hugo & Vitor,Nossa Hora (Ao Vivo),3rbG069NuFKBCXYPoGjB9g,31,204333,False,0.641,0.824,4,-5.375,1,0.0256,0.482,0,0.494,0.496,104.01,4
+78,2HbfhrRvZA7YG73qD1Ndpj,Falha - Ao Vivo,Hugo & Vitor,Bora Viver (Ao Vivo),3rbG069NuFKBCXYPoGjB9g,31,189677,False,0.733,0.764,11,-6.158,0,0.0386,0.483,0,0.416,0.651,124.006,4
+79,4hT985JObCTwNq6Rspeol4,Risco - Ao Vivo,Hugo & Vitor,Respeita Minha Dupla (Ao Vivo / Vol. 1),3rbG069NuFKBCXYPoGjB9g,29,151506,False,0.75,0.784,7,-5.475,1,0.0415,0.605,0,0.198,0.65,109.821,4
+80,69WUlAhRkKerjAxMdyaUlZ,Ai Que Saudade D'Ocê,Elba Ramalho,O Grande Encontro II,4ph6Bt1mkDlmf32PSvRa8A,64,173026,False,0.723,0.596,2,-10.124,1,0.0692,0.356,0,0.15,0.413,112.121,4
+81,5Ikos3uiBfPYAf7EZfz8t3,Sonho Meu,Elba Ramalho,"Sambabook Dona Ivone Lara, Vol. 2",4ph6Bt1mkDlmf32PSvRa8A,62,228132,False,0.596,0.451,5,-9.468,1,0.0404,0.64,3.52e-06,0.158,0.486,148.045,4
+82,45YVjCyYBtlY7FGx2HBoWQ,Coração Bobo - Live,Elba Ramalho,O Grande Encontro (Live),4ph6Bt1mkDlmf32PSvRa8A,38,252066,False,0.463,0.671,7,-8.866,1,0.0516,0.82,3.14e-05,0.644,0.571,112.842,4
+83,3JrFuUhcNLHiD3hJPVaHTy,Anunciação - Ao Vivo,Elba Ramalho,"O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",4ph6Bt1mkDlmf32PSvRa8A,56,327946,False,0.54,0.898,9,-7.18,1,0.0528,0.419,1.14e-06,0.984,0.473,109.984,5
+84,0Pfod2zD1uRBuI6vPrZkUI,Sabiá - Ao Vivo,Elba Ramalho,Maxximum - O Melhor Do Grande Encontro,4ph6Bt1mkDlmf32PSvRa8A,47,212066,False,0.383,0.53,4,-8.059,0,0.032,0.843,0,0.983,0.275,142.331,3
+85,4mWAXPCxDDi5Z23PxTNlmQ,Taxi Lunar - Ao Vivo,Elba Ramalho,"O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",4ph6Bt1mkDlmf32PSvRa8A,52,221453,False,0.567,0.784,9,-7.198,0,0.0469,0.505,0,0.797,0.646,77.009,4
+86,39DPLWaOhGeBSBwd0Nlm8y,Frevo Mulher - Ao Vivo,Elba Ramalho,"O Grande Encontro 20 Anos: Alceu, Elba e Geraldo (Ao Vivo)",4ph6Bt1mkDlmf32PSvRa8A,51,306853,False,0.442,0.866,4,-6.853,0,0.0733,0.388,0.00127,0.699,0.499,164.751,4
+87,37bsT50fiZH9O4frIelW3B,Chão de Giz - Ao Vivo,Elba Ramalho,Box O Grande Encontro,4ph6Bt1mkDlmf32PSvRa8A,41,288426,False,0.354,0.403,4,-8.553,0,0.0292,0.754,0,0.477,0.189,108.275,4
+88,0ZwEb2bjIosSyx0mJfopjE,Disparada,Elba Ramalho,O Grande Encontro II,4ph6Bt1mkDlmf32PSvRa8A,51,275746,False,0.663,0.379,2,-9.951,1,0.0272,0.528,0,0.198,0.438,112.933,4
+89,7qj1NdVhDHrDq9BeZq8GM7,Táxi Lunar - Ao Vivo,Elba Ramalho,O Grande Encontro 3,4ph6Bt1mkDlmf32PSvRa8A,48,267533,False,0.484,0.757,4,-5.67,0,0.0334,0.478,2.15e-06,0.847,0.695,138.797,4
+90,0a3Bfmq7czUFUsk2VZUA28,Sitio do Tio Harry,Sid,Coisas Que Eu Só Falaria Brincando,05BrFNfdik79RdmOG1Ux1Q,63,291882,True,0.682,0.694,1,-6.353,1,0.43,0.448,0,0.298,0.732,84.306,4
+91,4R3Iab1DVYX8NBHNpGWv2T,Isso Vale Minha Vida,Sid,Isso Vale Minha Vida,05BrFNfdik79RdmOG1Ux1Q,58,157343,False,0.803,0.835,6,-4.4,1,0.424,0.567,0,0.0668,0.826,143.926,4
+92,3V6feL88EALl8u7SLKQYfP,O Casamento,Sid,O Casamento,05BrFNfdik79RdmOG1Ux1Q,54,311632,True,0.803,0.725,10,-5.36,0,0.181,0.247,0,0.0788,0.934,97.953,4
+93,36jHpclKntpDEiyLVFoUNE,Eu(S),Sid,Eu(S),05BrFNfdik79RdmOG1Ux1Q,52,203809,True,0.869,0.573,2,-8.737,0,0.307,0.737,1.07e-05,0.0772,0.599,126.244,4
+94,26u09Z7pXlfYxOCdVUvVi4,Brasil de Quem? 6,Sid,Brasil de Quem? 6,05BrFNfdik79RdmOG1Ux1Q,51,221123,True,0.49,0.722,7,-5.761,0,0.388,0.14,0,0.163,0.677,178.116,3
+95,2Ww0mvlmvWjSz3vhpBoQNw,Gangorra,Sid,Gangorra,05BrFNfdik79RdmOG1Ux1Q,50,199375,True,0.646,0.859,11,-6.456,0,0.12,0.463,2.18e-06,0.09,0.689,119.997,4
+96,6NLoLuQ8b7eL2fKmQDhLsr,Foda-Se,Sid,Foda-Se,05BrFNfdik79RdmOG1Ux1Q,49,123428,True,0.633,0.37,7,-8.609,0,0.445,0.693,0,0.259,0.716,101.592,3
+97,6NKzjGyXviU3dbQYCURelP,Rodeado de Pateta,Sid,Coisas Que Eu Só Falaria Brincando,05BrFNfdik79RdmOG1Ux1Q,47,121640,True,0.938,0.769,1,-6.883,1,0.108,0.163,0,0.0646,0.894,127.991,4
+98,7Hr5kGdRmFhtlRccUR1inG,Mugiwara,Sid,Mugiwara,05BrFNfdik79RdmOG1Ux1Q,47,779404,False,0.569,0.512,0,-10.749,1,0.228,0.251,0,0.371,0.407,117.979,4
+99,2XK1S04Sdb2XNq4OtH6Xtl,Jogador Número 1,Sid,Jogador Número 1,05BrFNfdik79RdmOG1Ux1Q,44,292819,True,0.748,0.728,5,-6.18,0,0.156,0.382,0,0.198,0.635,100.049,4
+100,1JSTJqkT5qHq8MDJnJbRE1,Every Breath You Take,The Police,Synchronicity (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,88,253920,False,0.82,0.452,1,-9.796,1,0.0348,0.543,0.00294,0.0714,0.74,117.401,4
+101,3EYOJ48Et32uATr9ZmLnAo,Roxanne,The Police,Outlandos D'Amour (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,81,191946,False,0.618,0.748,0,-8.905,1,0.358,0.0384,4.1e-06,0.0473,0.663,134.114,4
+102,1oYYd2gnWZYrt89EBXdFiO,Message In A Bottle,The Police,Reggatta De Blanc (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,78,290280,False,0.577,0.808,1,-7.04,0,0.039,0.0338,1.33e-05,0.221,0.869,151.008,4
+103,44aTAUBF0g6sMkMNE8I5kd,Every Little Thing She Does Is Magic,The Police,Ghost In The Machine (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,77,260573,False,0.558,0.768,2,-9.997,1,0.0343,0.121,0.0626,0.124,0.429,81.909,4
+104,5veJDT0MLsLbhYsx42GXUD,Don't Stand So Close To Me,The Police,Zenyatta Mondatta (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,72,242666,False,0.799,0.506,2,-9.414,1,0.0606,0.0453,0.00107,0.0365,0.518,140.309,4
+105,2wnsBaxrmkthIFAm6vqCuX,So Lonely,The Police,Outlandos D'Amour (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,69,289586,False,0.541,0.571,7,-8.308,1,0.16,0.0123,1.55e-06,0.0933,0.73,77.335,4
+106,62uLNJgVZaFiEiKV4LpoYJ,Walking On The Moon,The Police,Reggatta De Blanc (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,69,300826,False,0.514,0.34,0,-12.779,1,0.0537,0.00142,0.0173,0.213,0.269,145.992,4
+107,0yJvWbn8xQKiDZ84VN5lQG,"De Do Do Do, De Da Da Da",The Police,Zenyatta Mondatta (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,67,247293,False,0.78,0.523,9,-8.884,1,0.051,0.06,0.0629,0.24,0.855,147.86,4
+108,6DjKJgwe9c90Bd2iya0fre,Can't Stand Losing You,The Police,Outlandos D'Amour (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,65,178760,False,0.737,0.789,2,-5.299,0,0.3,0.0701,0.000933,0.0518,0.891,141.969,4
+109,1V15l05snHYHYVxerjMFGo,King Of Pain,The Police,Synchronicity (Remastered 2003),5NGO30tJxFlKixkPSgXcFE,64,299040,False,0.518,0.725,2,-8.854,1,0.0338,0.389,0.000192,0.0671,0.646,124.151,4
+110,6hiKXxS7pgPKnKfCU7UJ6O,Vem Cá,Altamira,Vem Cá,12xPPAGu03vdZR3AmWNIxZ,70,166692,False,0.753,0.395,4,-8.19,1,0.133,0.525,0,0.181,0.724,80.959,4
+111,1dPYH7lKhUZHoaZMMeQHN3,Acústico Altamira #20 - Mulher Carioca,Altamira,Acústico Altamira #20 - Mulher Carioca,12xPPAGu03vdZR3AmWNIxZ,42,364195,False,0.716,0.577,3,-7.266,0,0.157,0.71,0,0.109,0.73,142.864,4
+112,5kFXehhyjElbMfaOLuHOlH,Acústico Altamira #2 - Aquariana,Altamira,Acústico Altamira #2 - Aquariana,12xPPAGu03vdZR3AmWNIxZ,41,245398,False,0.538,0.375,9,-11.021,1,0.429,0.659,6.44e-06,0.0902,0.603,90.966,4
+113,4AHfVXGx5tQp1GCLXHhb4s,Acústico Altamira #7 - Canceriana,Altamira,Acústico Altamira #7 - Canceriana,12xPPAGu03vdZR3AmWNIxZ,41,235299,False,0.659,0.595,8,-7.956,0,0.0414,0.538,0,0.0844,0.443,93.976,4
+114,042XQfHmyyZkV43iWEAeID,Acústico Altamira #11 - Escorpiana,Altamira,Acústico Altamira #11 - Escorpiana,12xPPAGu03vdZR3AmWNIxZ,40,387869,False,0.667,0.562,11,-7.096,0,0.0877,0.502,0,0.366,0.618,139.766,4
+115,52eiCLsRSBygy6jND6DCj8,Esse Choro É Em Blues,Altamira,Esse Choro É Em Blues,12xPPAGu03vdZR3AmWNIxZ,40,213975,False,0.585,0.413,5,-14.036,0,0.119,0.34,0.00022,0.106,0.426,83.036,4
+116,0GloNDPAQ9fumcktClASip,Acústico Altamira #1 - Ubatuba,Altamira,Acústico Altamira #1 - Ubatuba,12xPPAGu03vdZR3AmWNIxZ,39,336000,False,0.48,0.311,8,-11.527,0,0.128,0.839,3.07e-06,0.106,0.57,200.334,4
+117,6YMi3tJujGfeXWmA9KRDhC,Acústico Altamira #8 - Leonina,Altamira,Acústico Altamira #8 - Leonina,12xPPAGu03vdZR3AmWNIxZ,39,282666,False,0.482,0.37,11,-13.164,0,0.403,0.477,0,0.332,0.629,90.165,4
+118,1hoBqJiq8sR58nxGA1Wyva,Conexão,Altamira,Conexão,12xPPAGu03vdZR3AmWNIxZ,39,143448,True,0.743,0.591,7,-9.401,0,0.061,0.446,0.00342,0.116,0.667,87.027,4
+119,4R4sLlLQ1Spt62pe8ce0fj,Jé Ka Sóró,Altamira,Jé Ka Sóró,12xPPAGu03vdZR3AmWNIxZ,37,160000,False,0.708,0.637,1,-10.987,1,0.407,0.0911,0,0.675,0.754,98.919,4
+120,4C0jbc9jPcDmPDGphIdDoN,Temporal,Art Popular,Temporal (Audio),6YMWV5AeYoZymMMDonMfsA,60,275360,False,0.551,0.828,7,-5.769,0,0.0405,0.283,0,0.551,0.639,138.258,4
+121,1N8d5yPxGXH1WRAn29Udzu,Eternamente Feliz - Ao Vivo,Art Popular,Ao Vivo Sem Abuso,6YMWV5AeYoZymMMDonMfsA,58,201053,False,0.561,0.828,2,-8.208,1,0.033,0.137,0,0.64,0.937,170.209,4
+122,7yDjFcO9qsgnSKD5Cpo6jg,Sem Abuso - Ao Vivo,Art Popular,Ao Vivo Sem Abuso,6YMWV5AeYoZymMMDonMfsA,54,217840,False,0.586,0.799,9,-7.894,0,0.0377,0.354,0,0.464,0.898,159.542,4
+123,0G3PPOWMMPwBJIEH7Udnsu,Pimpolho,Art Popular,Temporal (Audio),6YMWV5AeYoZymMMDonMfsA,48,191933,False,0.781,0.809,2,-7.395,1,0.103,0.332,0,0.0787,0.745,93.548,4
+124,2xRjpf9nBbKNV4VtjSHfER,Pimpolho - Ao Vivo,Art Popular,Artpopuloucos #02 (Ao Vivo),6YMWV5AeYoZymMMDonMfsA,51,166086,False,0.632,0.695,7,-11.998,1,0.0515,0.73,0,0.799,0.637,94.214,4
+125,7ollbgEJRZI1rbNP5GlpVs,Falando Segredo - Ao Vivo,Art Popular,Ao Vivo Sem Abuso,6YMWV5AeYoZymMMDonMfsA,48,201306,False,0.677,0.873,2,-8.034,0,0.0441,0.205,0,0.851,0.922,85.988,4
+126,4xXdQBMlwphSnCl5thfXFK,Primeiro Beijo - Ao Vivo,Art Popular,Ao Vivo Sem Abuso,6YMWV5AeYoZymMMDonMfsA,48,224560,False,0.528,0.805,7,-9.107,1,0.051,0.237,0,0.597,0.84,161.137,4
+127,2U3O6FoCkZtY1cbOZEuRP3,Quando Voce Me Beija,Art Popular,Eu Sou O Samba - Art Popular,6YMWV5AeYoZymMMDonMfsA,46,249493,False,0.689,0.72,4,-8.457,1,0.0339,0.686,3.84e-06,0.133,0.876,134.068,4
+128,1IaP9eKzrIASipVQ088uUg,Fricote,Art Popular,Sambapopbrasil,6YMWV5AeYoZymMMDonMfsA,36,249760,False,0.709,0.522,7,-11.094,1,0.133,0.0712,0,0.315,0.413,99.375,4
+129,3CSae8JgTJA314kfZbvp1U,É No Pagode,Art Popular,Planeta Pagode,6YMWV5AeYoZymMMDonMfsA,42,212506,False,0.764,0.927,9,-6.353,1,0.0834,0.345,0,0.0814,0.97,178.1,4
+130,0vy51G7oHHjUvIIklBpquR,Tóxica só que vicia,CJota,O mesmo que rimava na roda,5qvphJwi72TG198xn5VVYH,58,189718,True,0.771,0.493,4,-6.744,0,0.0708,0.292,0,0.088,0.326,123.939,4
+131,68WBThXJjEP9XyzFHppAdX,E Se Eu Falasse o Que Sinto?,CJota,ZIMA,5qvphJwi72TG198xn5VVYH,61,216000,True,0.451,0.313,2,-13.392,0,0.154,0.899,0.000243,0.137,0.176,128.406,5
+132,023uwSNZjqRpulKkwOGYxn,Call 911,CJota,Call 911,5qvphJwi72TG198xn5VVYH,59,180000,False,0.536,0.535,8,-7.306,0,0.221,0.278,0,0.124,0.347,111.279,4
+133,3qiTn3yOHSPm2YKZILI4b9,Tiro no Escuro,CJota,Tiro no Escuro,5qvphJwi72TG198xn5VVYH,56,162711,True,0.779,0.475,2,-8.937,0,0.18,0.561,0,0.111,0.33,118.246,4
+134,532c5QACGW10DFZWyNaMKL,Vou Falar o Que?,CJota,ZIMA,5qvphJwi72TG198xn5VVYH,56,183185,True,0.742,0.424,11,-8.911,0,0.11,0.673,1.56e-06,0.147,0.243,124.018,4
+135,4odwzbUa5QnAxxzWyRtCvD,Não quero mais cnvs,CJota,Essa é a Vida de um Corredor,5qvphJwi72TG198xn5VVYH,54,150588,True,0.808,0.401,10,-12.583,0,0.192,0.493,0.000247,0.0882,0.599,76.549,4
+136,7ksIihEPQIicSZs9rd6Q3v,Salvação,CJota,Salvação,5qvphJwi72TG198xn5VVYH,54,260168,False,0.693,0.722,0,-4.395,0,0.069,0.0326,0,0.126,0.421,118.998,4
+137,1lT7k7RXpNR39SpLwYAD9E,Saint Laurent,CJota,Saint Laurent,5qvphJwi72TG198xn5VVYH,54,174853,True,0.787,0.451,0,-8.281,0,0.39,0.28,0,0.0931,0.769,139.782,4
+138,5g78E4G5QMdGYNNhzLpo76,Intenção,CJota,Intenção,5qvphJwi72TG198xn5VVYH,51,147762,True,0.7,0.519,6,-8.185,0,0.0317,0.355,0,0.104,0.331,124.039,4
+139,0p0X3eZfy33Gc91M8FRsli,Perna Bamba,CJota,Perna Bamba,5qvphJwi72TG198xn5VVYH,51,180500,True,0.57,0.604,7,-3.196,1,0.0488,0.237,0,0.3,0.373,119.786,4
+140,215ddJ63kPky5lAadoXkJy,You Are My Lady,Furacão 2000,Sensibilidade Vol. 2,22nkIVS7afh6A7hdd9Lze0,26,284386,False,0.694,0.326,10,-13.166,1,0.0395,0.545,0,0.103,0.382,91.489,4
+141,2IJcz15qnTLRphgkOqF2x8,Cerol na Mão,Furacão 2000,Tornado Muito Nervoso 2,22nkIVS7afh6A7hdd9Lze0,55,161476,False,0.964,0.723,6,-6.238,0,0.193,0.0431,0.000717,0.0776,0.583,126.922,4
+142,16AlJBlkevGpbN0TSxtc4u,Dança da Motinha,Furacão 2000,Tornado Muito Nervoso 2,22nkIVS7afh6A7hdd9Lze0,50,168190,False,0.972,0.951,6,-6.009,0,0.121,0.00977,0.00337,0.36,0.953,126.964,4
+143,69PPTtlosAFbYDSoYTg2ND,Dreamin,Furacão 2000,Furacão 2000 Internacional 30 anos,22nkIVS7afh6A7hdd9Lze0,29,248986,False,0.776,0.665,9,-10.7,0,0.0417,0.0231,0.038,0.0176,0.696,125.343,4
+144,5b8ESwjzwdfkgKSyfuVyQk,Agora Tô Solteira,Furacão 2000,"Os Melhores Funks da Furacão 2000, Vol. 1",22nkIVS7afh6A7hdd9Lze0,48,222130,False,0.918,0.805,5,-9.508,0,0.157,0.281,0,0.531,0.859,129.989,4
+145,7FHb8mWlVXeseHKesfqBmg,Sequência do Pente,Furacão 2000,"Os Melhores Funks da Furacão 2000, Vol. 1",22nkIVS7afh6A7hdd9Lze0,46,175400,False,0.947,0.902,5,-4.472,0,0.233,0.257,0,0.103,0.921,130.103,4
+146,3uMhLvDwnwYHW6J5nhPlzL,Passinho do Volante,Furacão 2000,"Os Melhores Funks da Furacão 2000, Vol. 1",22nkIVS7afh6A7hdd9Lze0,46,174590,False,0.901,0.864,2,-1.427,0,0.336,0.467,0,0.0964,0.887,129.952,4
+147,7EfeDHvg6pKkRySXwuHt5b,De Segunda a Sexta,Furacão 2000,Tornado Muito Nervoso 2,22nkIVS7afh6A7hdd9Lze0,44,141623,False,0.855,0.49,7,-5.131,1,0.0556,0.0126,0.0123,0.602,0.568,126.919,4
+148,7psBW0LJRYEDestSInNDEL,Tapinha,Furacão 2000,Tornado Muito Nervoso 2,22nkIVS7afh6A7hdd9Lze0,45,155756,False,0.904,0.596,4,-8.959,1,0.124,0.0279,6.36e-05,0.074,0.805,126.937,4
+149,01gbAccZKx4HrTu5FIgC6b,I Wanna Know Your Name,Furacão 2000,Sensibilidade Vol. 2,22nkIVS7afh6A7hdd9Lze0,9,349813,False,0.394,0.403,4,-13.232,1,0.0367,0.442,1.32e-05,0.11,0.336,112.444,3
+150,5anCkDvJ17aznvK5TED5uo,Hail to the King,Avenged Sevenfold,Hail to the King,0nmQIMXWTXfhgOBdNzhGOs,79,305906,False,0.58,0.916,3,-4.358,0,0.0387,0.000297,0.0259,0.126,0.683,118.004,4
+151,4UEo1b0wWrtHMC8bVqPiH8,Nightmare,Avenged Sevenfold,Nightmare,0nmQIMXWTXfhgOBdNzhGOs,74,374453,True,0.554,0.949,2,-4.928,1,0.0787,0.000318,9.98e-05,0.2,0.233,129.984,4
+152,7zAt4tdL44D3VuzsvM0N8n,Afterlife,Avenged Sevenfold,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,72,352426,False,0.487,0.949,2,-4.217,0,0.0798,0.000429,2.91e-05,0.231,0.406,110.02,4
+153,3sHH7lklbfpcraDDvYnjo7,Bat Country,Avenged Sevenfold,City of Evil,0nmQIMXWTXfhgOBdNzhGOs,72,311813,False,0.541,0.968,0,-4.129,1,0.0396,0.000248,8.28e-06,0.423,0.505,125.04,4
+154,4tjTsxTBcacHcx0AvWERLE,Nobody,Avenged Sevenfold,Nobody,0nmQIMXWTXfhgOBdNzhGOs,71,353986,False,0.411,0.702,7,-7.085,0,0.04,0.000942,5.2e-06,0.298,0.214,74.965,4
+155,1fQaoh3imrMunWVZh5kf90,Shepherd of Fire,Avenged Sevenfold,Hail to the King,0nmQIMXWTXfhgOBdNzhGOs,72,323800,False,0.576,0.906,2,-7.677,1,0.0571,0.000332,0.0614,0.0908,0.211,127.935,4
+156,78XFPcFYN8YFOHjtVwnPsl,Unholy Confessions,Avenged Sevenfold,Waking The Fallen,0nmQIMXWTXfhgOBdNzhGOs,70,283826,False,0.447,0.876,2,-5.446,0,0.066,0.000359,0.00103,0.255,0.532,92.535,4
+157,1BLfQ6dPXmuDrFmbdfW7Jl,A Little Piece of Heaven,Avenged Sevenfold,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,70,480706,True,0.486,0.881,2,-5.623,0,0.0474,0.0244,0,0.429,0.667,144.997,4
+158,7Hr1Ignop7cymbE3FbOtXa,So Far Away,Avenged Sevenfold,Nightmare,0nmQIMXWTXfhgOBdNzhGOs,67,326813,False,0.286,0.703,4,-4.491,0,0.0348,0.00847,7.39e-05,0.142,0.259,151.297,4
+159,2FML7gk7ac6quGFIjvkDb3,Dear God,Avenged Sevenfold,Avenged Sevenfold,0nmQIMXWTXfhgOBdNzhGOs,70,393480,False,0.472,0.772,5,-5.928,1,0.0316,0.00658,5.65e-05,0.132,0.6,139.993,4
+160,6fazW2YcCSwJRdkoWls1FB,Brazilian Phonk Mano,lucaf.,Brazilian Phonk Mano,6D9zCyDfKoioQD2vYKxOdI,80,84576,False,0.875,0.883,1,-2.958,0,0.124,0.00462,0.538,0.107,0.807,130.044,4
+161,34lJpf1XeT6mS58S5Dwqn6,Brazilian Phonk Mano - Super Slowed,lucaf.,Brazilian Phonk Mano (Super Slowed),6D9zCyDfKoioQD2vYKxOdI,74,106562,False,0.893,0.695,11,-3.382,1,0.0455,0.0357,0.134,0.124,0.109,103.162,4
+162,7ojYP1Z8ix7OVzk5dh2ZHm,Brazilian Phonk Mano - Slowed,lucaf.,Brazilian Phonk Mano (Slowed),6D9zCyDfKoioQD2vYKxOdI,67,94932,False,0.905,0.815,1,-3.14,1,0.047,0.0131,0.268,0.0842,0.336,115.832,4
+163,0Za2bu2DtFNhfQkb17xZaA,MELHOR PHUNK,lucaf.,MELHOR PHUNK,6D9zCyDfKoioQD2vYKxOdI,63,90461,False,0.748,0.555,8,-2.912,1,0.0406,0.112,7.24e-05,0.472,0.14,130.081,4
+164,6hMNOUQFxkbqXCK6kToQnJ,Take It Off,lucaf.,Take It Off,6D9zCyDfKoioQD2vYKxOdI,60,90461,False,0.823,0.887,1,-1.72,1,0.168,0.00436,0.752,0.205,0.331,130.051,4
+165,30w4q1bhKNtA8O2egVmkfB,Brazilian Phonk Mano - Sped Up,lucaf.,Brazilian Phonk Mano (Sped Up),6D9zCyDfKoioQD2vYKxOdI,59,75350,False,0.845,0.829,6,-2.967,1,0.0828,0.00121,0.403,0.285,0.754,145.975,4
+166,3X1j0TxXvShWgToN6pya5v,MELHOR PHUNK - Super Slowed,lucaf.,MELHOR PHUNK (Super Slowed),6D9zCyDfKoioQD2vYKxOdI,56,113975,False,0.711,0.673,1,-3.882,1,0.0455,0.113,0.0179,0.63,0.129,103.183,4
+167,2e8xwES50iUOohzYumiWNk,Miau Gato,lucaf.,Miau Gato,6D9zCyDfKoioQD2vYKxOdI,54,105461,False,0.705,0.581,2,-3.549,1,0.0535,0.0141,0.798,0.232,0.247,130.038,4
+168,4BZ4Lca3ZdSHev0v8VPkQF,Smoke,lucaf.,Smoke,6D9zCyDfKoioQD2vYKxOdI,54,123000,False,0.619,0.956,6,-4.487,1,0.348,0.0682,0.789,0.67,0.43,159.937,4
+169,1RcnRsz8a7q4lexdQrMB9M,You,lucaf.,You,6D9zCyDfKoioQD2vYKxOdI,52,148285,False,0.472,0.725,8,-5.953,1,0.0483,0.00894,0.000311,0.582,0.354,140.161,4
+170,5oybkyECAyGaDxYLUCPjFh,Under Pressure,David Bowie,Best of Bowie,0oSGxfWSnnOXhD2fKuz2Gy,58,237520,False,0.678,0.643,2,-9.316,1,0.0444,0.24,0,0.0708,0.534,113.46,4
+171,0pQskrTITgmCMyr85tb9qq,Starman - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,79,254293,False,0.486,0.449,5,-10.298,1,0.0267,0.166,2.23e-06,0.54,0.549,100.456,4
+172,7Jh1bpe76CNTCgdgAdBw4Z,Heroes - 2017 Remaster,David Bowie,"""Heroes"" (2017 Remaster)",0oSGxfWSnnOXhD2fKuz2Gy,77,371413,False,0.489,0.758,7,-6.491,1,0.0297,0.000678,0.49,0.092,0.435,112.113,4
+173,2EC9IJj7g0mN1Q5VrZkiYY,Rebel Rebel - 2016 Remaster,David Bowie,Diamond Dogs (2016 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,74,274746,False,0.635,0.686,9,-15.648,1,0.053,0.209,0.0176,0.282,0.464,125.988,4
+174,72Z17vmmeQKAg8bptWvpVG,Space Oddity - 2015 Remaster,David Bowie,David Bowie (aka Space Oddity) [2015 Remaster],0oSGxfWSnnOXhD2fKuz2Gy,73,318026,False,0.31,0.403,0,-13.664,1,0.0326,0.0726,9.27e-05,0.139,0.466,134.48,4
+175,6mib3N4E8PZHAGQ3xy7bho,Moonage Daydream - 2012 Remaster,David Bowie,The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,73,279693,False,0.56,0.605,11,-11.209,0,0.0348,0.0408,0.000162,0.0585,0.756,144.478,4
+176,3ZE3wv8V3w2T2f7nOCjV0N,Life on Mars? - 2015 Remaster,David Bowie,Hunky Dory (2015 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,72,235986,False,0.445,0.384,10,-14.642,1,0.0417,0.635,7.74e-05,0.0539,0.216,123.295,4
+177,3ix6K4wZY29bCujrSznwFZ,Let's Dance - 2018 Remaster,David Bowie,Let's Dance (2018 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,72,457675,False,0.654,0.743,10,-7.44,0,0.0605,0.0125,0.0272,0.153,0.632,114.846,4
+178,3gxEZXUjrNbl3TlSrTGbR5,Modern Love - 2018 Remaster,David Bowie,Let's Dance (2018 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,71,288339,False,0.358,0.938,0,-5.577,1,0.0483,0.00375,9.2e-06,0.117,0.944,182.836,4
+179,0LrwgdLsFaWh9VXIjBRe8t,Changes - 2015 Remaster,David Bowie,Hunky Dory (2015 Remaster),0oSGxfWSnnOXhD2fKuz2Gy,70,217746,False,0.559,0.308,0,-11.75,1,0.0376,0.505,0,0.109,0.414,113.633,4
+180,3pUQEJXwmnooceL5DqluNA,Borbulhas de Amor (Tenho um Coração) [Borbujas de Amor],Fagner,Pedras Que Cantam,5j3htXVskZF0u8qWY5zcF8,60,249280,False,0.67,0.523,11,-11.508,1,0.0314,0.685,0,0.136,0.693,126.474,4
+181,1DcKuTqFYTYTTERUwTeEUS,Espumas ao Vento,Fagner,Terral,5j3htXVskZF0u8qWY5zcF8,58,244533,False,0.55,0.48,9,-7.707,0,0.0572,0.81,1.61e-05,0.337,0.368,71.078,4
+182,4jql26gU6eKg2zbCOCW3Zs,Garoto de Aluguel (Taxi Boy) [Ao Vivo],Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,54,176800,False,0.472,0.636,4,-8.266,0,0.0375,0.467,0.00229,0.662,0.318,90.841,4
+183,2ReXjoXXQ6diAn9RocOE1F,Deslizes,Fagner,Romance no Deserto,5j3htXVskZF0u8qWY5zcF8,54,252000,False,0.54,0.394,11,-15.022,1,0.0284,0.244,0,0.316,0.49,136.48,4
+184,28IXLE3uhY2qgRO9cGkiXr,Canteiros,Fagner,Ensaio,5j3htXVskZF0u8qWY5zcF8,52,329429,False,0.436,0.27,2,-17.508,1,0.0462,0.865,0.00127,0.189,0.421,140.012,4
+185,1zcjHt9arIUCLzxHT1dans,Noturno (Coração Alado) - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,49,260826,False,0.507,0.312,9,-10.293,1,0.0534,0.82,2.27e-06,0.769,0.276,112.656,4
+186,2FKAGYMJqOP79Rys9EWzy1,Chão de Giz - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,49,284840,False,0.456,0.364,7,-9.691,1,0.0354,0.821,3.13e-05,0.927,0.277,139.809,3
+187,0ghs5Ei5AruXBHL7nxTeJn,Lembra - Ao Vivo,Fagner,Lembra (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,46,159900,False,0.599,0.907,0,-6.295,1,0.0399,0.546,1.56e-05,0.901,0.851,155.966,4
+188,3DMpOz3QWFtOmr9TCgRLdI,Vem Morena,Fagner,Festa,5j3htXVskZF0u8qWY5zcF8,48,204883,False,0.691,0.745,10,-10.199,1,0.041,0.0623,1.22e-05,0.144,0.787,109.933,4
+189,5KckLw681trX1tHpLg9xs4,Romance no Deserto (Romance in Durango) - Ao Vivo,Fagner,Fagner & Zé Ramalho (Ao Vivo),5j3htXVskZF0u8qWY5zcF8,47,244760,False,0.644,0.598,7,-6.507,1,0.0497,0.706,0,0.681,0.644,125.057,4
+190,6Nd6ntkzr4t8o1FKPGOSMt,Here I Go Again - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),3UbyYnvNIT5DFXU4WgiGpP,71,275395,False,0.292,0.823,7,-6.763,1,0.0407,0.0117,7.79e-05,0.155,0.244,89.939,4
+191,3pHpV3pa96s4vuBP7sQq0V,Is This Love - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),3UbyYnvNIT5DFXU4WgiGpP,70,284496,False,0.263,0.759,0,-7.288,1,0.0431,0.0555,0,0.231,0.429,179.904,4
+192,5yRAFKdtf6CXxESXbXV1lp,Here I Go Again - Radio Mix,Whitesnake,Whitesnake (30th Anniversary Super Deluxe Edition),3UbyYnvNIT5DFXU4WgiGpP,60,232133,False,0.48,0.887,7,-4.91,1,0.0319,0.147,0.00011,0.33,0.69,92.971,4
+193,567EwOGPAXg7Y9DQZTEFEE,Here I Go Again - 2011 Remaster,Whitesnake,Saints and Sinners (2013 Remaster),3UbyYnvNIT5DFXU4WgiGpP,60,308240,False,0.234,0.75,4,-7.034,0,0.0738,0.369,0.000805,0.139,0.316,173.82,4
+194,7AtwQRLPdttsxcLM5tPL0t,Still of the Night - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),3UbyYnvNIT5DFXU4WgiGpP,60,397768,False,0.334,0.854,4,-7.531,0,0.0494,0.00235,0.00114,0.158,0.284,100.175,4
+195,1OwcckpLpQLDrAkBKYLEAX,Fool for Your Loving - 2011 Remaster,Whitesnake,Ready an' Willing (2013 Remaster),3UbyYnvNIT5DFXU4WgiGpP,51,259066,False,0.597,0.92,0,-5.933,1,0.0581,0.0368,7.56e-06,0.0837,0.74,122.417,4
+196,63ZBSZ8zBvfGNK24BLMPAi,The Deeper the Love - 2019 Remaster,Whitesnake,Slip of the Tongue (2019 Remaster),3UbyYnvNIT5DFXU4WgiGpP,51,259901,False,0.537,0.662,9,-7.52,1,0.0286,0.000611,1.43e-06,0.0863,0.471,104.977,4
+197,17PDHqBZBP1JeYtuNHOo7M,Love Ain't No Stranger,Whitesnake,Slide It In,3UbyYnvNIT5DFXU4WgiGpP,47,253573,False,0.371,0.557,11,-14.184,0,0.0502,0.0981,0.000318,0.115,0.281,125.823,4
+198,1kGviTmoI8CM1dG0atAek2,Give Me All Your Love - 2018 Remaster,Whitesnake,Whitesnake (2018 Remaster),3UbyYnvNIT5DFXU4WgiGpP,46,208133,False,0.196,0.936,9,-6.401,0,0.113,0.000895,0.000109,0.0827,0.152,102.731,1
+199,7xLWfj2BmNoDIuTHGvQiqL,Slide It In,Whitesnake,Slide It In,3UbyYnvNIT5DFXU4WgiGpP,43,200906,False,0.578,0.871,2,-12.511,1,0.0447,0.00492,0.00209,0.105,0.479,130.203,4
+200,5u0iZ81Yf2L90FQLYQUiiG,Famoso Machuca Xota,Mc Larissa,Famoso Machuca Xota,6mTLUu4QRFZXFurxQyLzBX,75,169800,True,0.595,0.718,11,-3.022,1,0.196,0.154,0,0.163,0.553,129.614,4
+201,4kq9AjQ07sNwvMsR2RC2lC,Mega Funk Machuca Xt,Mc Larissa,Mega Funk Machuca Xt,6mTLUu4QRFZXFurxQyLzBX,45,139677,True,0.644,0.617,6,-7.953,0,0.0593,0.0146,4.99e-05,0.137,0.41,126.015,4
+202,2MNctwfUIFFhqkUDvNk70r,Escolhe as Posição,Mc Larissa,Escolhe as Posição,6mTLUu4QRFZXFurxQyLzBX,34,124055,True,0.817,0.83,11,-2.502,0,0.135,0.181,0,0.119,0.837,170.382,4
+203,7dyViEAkBUvrlRJGPcmyNF,Sessão de Kama Sutra (feat. Branquinho Kebradeira),Mc Larissa,Sessão de Kama Sutra,6mTLUu4QRFZXFurxQyLzBX,30,160343,False,0.66,0.949,4,-3.079,0,0.161,0.226,2.29e-05,0.114,0.628,170.127,4
+204,3uPp1iQZINjnTplm5CHyLB,Danada / Me Fode Vai,Mc Larissa,Danada / Me Fode Vai,6mTLUu4QRFZXFurxQyLzBX,29,113264,True,0.721,0.89,7,-5.484,1,0.0855,0.000925,0,0.0681,0.676,180.073,4
+205,03Pez52Ynj86RJNY3jOUrX,Funk do Bota Bota,Mc Larissa,Funk do Bota Bota,6mTLUu4QRFZXFurxQyLzBX,27,156826,False,0.867,0.383,1,-10.102,1,0.323,0.00285,0.00555,0.226,0.349,129.999,4
+206,7gohMujUKNwS2ocu7I7yVW,Ai Ai Ai Ai Bota Bota Bota Bota,Mc Larissa,Ai Ai Ai Ai Bota Bota Bota Bota,6mTLUu4QRFZXFurxQyLzBX,24,202000,True,0.948,0.742,9,-8.506,0,0.235,0.173,7.9e-05,0.273,0.804,130.016,4
+207,1d6XpO5zv3Hwddx10AeJfa,Joga Na Minha Cara,Mc Larissa,Joga Na Minha Cara,6mTLUu4QRFZXFurxQyLzBX,23,153230,False,0.937,0.476,8,-6.255,1,0.372,0.184,0.0144,0.141,0.277,129.95,4
+208,3VuW80lw0BcvDXpDVnkuvU,Automotivo de Outro Mundo,Mc Larissa,Automotivo de Outro Mundo,6mTLUu4QRFZXFurxQyLzBX,22,149894,True,0.455,0.984,11,-2.471,1,0.285,0.262,0.876,0.29,0.394,129.814,4
+209,4QszxZ4marnNECTdKvSFN5,"Eu Já Vou Te Mostrar 1, 2, 3",Mc Larissa,"Eu Já Vou Te Mostrar 1, 2, 3",6mTLUu4QRFZXFurxQyLzBX,21,118153,True,0.759,0.351,4,-13.38,1,0.275,0.0377,0.317,0.249,0.362,130.101,4
+210,2SOeAhvJfh7HsGYPVtGG8H,Aqui Na Parma Tu Vem Pra Fuder,DJ CIRILO DE CAXIAS,De Caxias Para O Mundo,4vU3LV354CpezI42tPRiVN,56,171428,True,0.687,0.717,11,-1.116,1,0.159,0.786,7.66e-06,0.0721,0.803,140.134,4
+211,07WmnujO3UpSdwaNvcK6Qd,Terra do Popaye,DJ CIRILO DE CAXIAS,De Caxias Para O Mundo,4vU3LV354CpezI42tPRiVN,41,153946,False,0.885,0.594,6,-1.621,0,0.0635,0.005,0.501,0.0439,0.841,135.061,4
+212,0KvMfXpAbayAmE9eqslsp3,"Tropa da Parma, Hoje Eu Brotei no Baile da Parô",DJ CIRILO DE CAXIAS,De Caxias Para O Mundo,4vU3LV354CpezI42tPRiVN,44,99692,False,0.865,0.41,1,-7.859,1,0.0952,0.0374,0.542,0.0754,0.834,130.121,4
+213,6CaCYeeoXmIhZVYp5JGWa2,Ela Passou Olhou Gostou Sorriu,DJ CIRILO DE CAXIAS,Ela Passou Sarrou Gostou Sorriu,4vU3LV354CpezI42tPRiVN,41,116571,False,0.929,0.69,0,1.099,0,0.329,0.0207,1.24e-05,0.182,0.886,139.988,4
+214,25e7YuPZVTunQxxkBCAbnb,Tropa do Rato Come Cú Come Xereca,DJ CIRILO DE CAXIAS,De Caxias Para O Mundo,4vU3LV354CpezI42tPRiVN,32,152384,False,0.971,0.587,6,-7.398,1,0.179,0.0128,0.0353,0.0371,0.926,129.98,4
+215,52yfRRk5xqhDUahrebaNqq,É Que Eu Me Envolvi,DJ CIRILO DE CAXIAS,É Que Eu Me Envolvi,4vU3LV354CpezI42tPRiVN,26,110769,True,0.954,0.351,7,-5.67,1,0.416,0.733,0,0.092,0.858,130.07,4
+216,02LtCcDf6R0jk2hjtul53Q,Piquezin de Tralha,DJ CIRILO DE CAXIAS,Piquezin de Tralha,4vU3LV354CpezI42tPRiVN,26,123857,True,0.868,0.771,5,0.336,0,0.231,0.293,0.75,0.0834,0.855,139.985,4
+217,5Mb6eZtjA16EkY26lrz8s0,Tu Quer de 556 ou de 762,DJ CIRILO DE CAXIAS,Tu Quer de 556 ou de 762,4vU3LV354CpezI42tPRiVN,23,181948,True,0.955,0.405,2,-11.339,1,0.259,0.144,0,0.127,0.88,129.97,4
+218,1jnvK5Uw77mLpJ5K4V7W12,Aqui na Parma Nós Tem Coleção,DJ CIRILO DE CAXIAS,Aqui na Parma Nós Tem Coleção,4vU3LV354CpezI42tPRiVN,22,158222,True,0.928,0.466,7,-1.283,1,0.168,0.0144,0.00967,0.0978,0.343,135.004,4
+219,6Bej8b8KOQ2KxElJcpt7sd,De Fuzil Eu Fico Lindo,DJ CIRILO DE CAXIAS,De Fuzil Eu Fico Lindo,4vU3LV354CpezI42tPRiVN,21,149333,False,0.762,0.501,2,-0.561,1,0.406,0.358,0,0.151,0.761,108.812,3
+220,5ruzrDWcT0vuJIOMW7gMnW,The Adults Are Talking,The Strokes,The New Abnormal,0epOFNiUfyON9EYx7Tpr6V,80,309053,False,0.593,0.749,5,-5.67,1,0.0475,0.0113,0.106,0.314,0.649,164.959,4
+221,7kzKAuUzOITUauHAhoMoxA,Last Nite,The Strokes,Is This It,0epOFNiUfyON9EYx7Tpr6V,76,193506,False,0.624,0.91,0,-5.703,1,0.0297,0.0285,0.000198,0.0789,0.767,104.042,4
+222,57Xjny5yNzAcsxnusKmAfA,Reptilia,The Strokes,Room On Fire,0epOFNiUfyON9EYx7Tpr6V,78,219826,False,0.489,0.649,9,-5.11,1,0.0336,0.000603,0.713,0.101,0.77,158.009,4
+223,56NkIxSZZiMpFP5ZNSxtnT,Someday,The Strokes,Is This It,0epOFNiUfyON9EYx7Tpr6V,73,183573,False,0.542,0.531,9,-7.481,1,0.0301,0.0033,1.51e-06,0.338,0.671,105.97,4
+224,4fPBB44eDH71YohayI4eKV,You Only Live Once,The Strokes,First Impressions Of Earth,0epOFNiUfyON9EYx7Tpr6V,74,189226,False,0.63,0.908,11,-2.42,1,0.0326,0.0238,0.592,0.116,0.968,120.522,4
+225,3Y4rUyw7XBCK6hGHCOt6rp,"Call It Fate, Call It Karma",The Strokes,Comedown Machine,0epOFNiUfyON9EYx7Tpr6V,72,204773,False,0.544,0.241,4,-14.779,0,0.03,0.983,0.774,0.101,0.359,109.437,4
+226,2t0wwvR15fc3K1ey8OiOaN,Selfless,The Strokes,The New Abnormal,0epOFNiUfyON9EYx7Tpr6V,72,222093,False,0.538,0.679,4,-4.297,1,0.0333,0.191,0.00175,0.0889,0.0888,121.99,4
+227,6u0x5ad9ewHvs3z6u9Oe3c,Under Cover of Darkness,The Strokes,Angles,0epOFNiUfyON9EYx7Tpr6V,69,235546,False,0.35,0.775,11,-3.364,1,0.054,0.00433,0.283,0.0676,0.588,199.866,4
+228,2LMloFiV7DHpBhITOaBSam,Hard To Explain,The Strokes,Is This It,0epOFNiUfyON9EYx7Tpr6V,65,224426,False,0.406,0.682,7,-6.281,1,0.0584,0.000413,0.849,0.0999,0.623,82.495,4
+229,6Yu1OL8I0D4vjOzYdsXYGK,12:51,The Strokes,Room On Fire,0epOFNiUfyON9EYx7Tpr6V,69,153133,False,0.451,0.889,4,-3.838,1,0.0379,0.312,0.8,0.558,0.592,145.056,4
+230,2R0478PhcwKMYLTiJHAuTH,Segredos,Frejat,Amor pra Recomeçar,3WVjDclrbHsxjxhiOqHdnw,66,233533,False,0.581,0.731,7,-5.189,1,0.0289,0.192,0,0.405,0.579,127.582,4
+231,0YtD2P3M3d56pv0OkNpsHl,Amor pra recomeçar,Frejat,Amor pra Recomeçar,3WVjDclrbHsxjxhiOqHdnw,65,214626,False,0.564,0.856,7,-4.994,1,0.0363,0.215,0,0.337,0.726,120.528,4
+232,7lzfMZak2HjNPXXSxksjPB,Camarão Que Dorme a Onda Leva,Frejat,"Sambabook Zeca Pagodinho, Vol. 2",3WVjDclrbHsxjxhiOqHdnw,64,168948,False,0.723,0.694,0,-6.694,1,0.0802,0.313,0,0.052,0.739,106.359,4
+233,4gqxE2PMdk6HvZKEqsQ8YE,Por Você - Ao Vivo,Frejat,Frejat Ao Vivo No Rock In Rio,3WVjDclrbHsxjxhiOqHdnw,61,215253,False,0.383,0.697,4,-7.059,1,0.0494,0.598,0,0.364,0.226,130.699,4
+234,2EjGS0YJPaf3C4TCmJddGL,Pro Dia Nascer Feliz,Frejat,Pro Dia Nascer Feliz,3WVjDclrbHsxjxhiOqHdnw,51,203225,False,0.67,0.847,9,-6.544,0,0.0881,0.164,0,0.113,0.589,124.017,4
+235,2bVvjh7n3w1TGTHNHZ6aNE,Por Você,Frejat,Moska Apresenta Zoombido: Frejat,3WVjDclrbHsxjxhiOqHdnw,51,211816,False,0.622,0.33,8,-6.492,1,0.0291,0.464,0,0.0624,0.376,122.87,4
+236,4ewcgtlObYccblWuAxMUqz,Homem não chora,Frejat,Amor pra Recomeçar,3WVjDclrbHsxjxhiOqHdnw,48,239533,False,0.539,0.838,10,-5.563,1,0.0525,0.0831,0.000227,0.276,0.343,133.437,4
+237,3oOkb7QXQ4HRJaFvBnzSjo,Túnel do tempo,Frejat,Sobre nós 2 e o resto do mundo,3WVjDclrbHsxjxhiOqHdnw,46,225026,False,0.551,0.548,0,-9.269,1,0.0276,0.0373,0,0.2,0.478,92.958,4
+238,3txHZTpGeVASXa5ARwoRX6,Puro Êxtase - Ao Vivo,Frejat,Frejat Ao Vivo No Rock In Rio,3WVjDclrbHsxjxhiOqHdnw,46,292186,False,0.571,0.924,9,-4.727,1,0.197,0.179,4.07e-06,0.719,0.5,121.056,4
+239,6pIoxQeb3teosMNC7N5l78,Cartas e Versos,Frejat,Ao Redor do Precipício,3WVjDclrbHsxjxhiOqHdnw,35,199814,False,0.73,0.467,6,-10.498,0,0.0277,0.596,0,0.114,0.641,110.131,4
+240,1BoMpKPeITtg3HN9Ursz5T,Mal Sei Falar de Amor,Raffé,Mal Sei Falar de Amor,0BMccF4OSgl180EzdVFY9m,67,128000,False,0.743,0.549,1,-5.285,0,0.0595,0.106,0,0.0877,0.376,119.923,4
+241,5YURHESoQKz81fL4IxV7NJ,INVEJOSO,Raffé,INVEJOSO,0BMccF4OSgl180EzdVFY9m,64,300000,True,0.627,0.551,6,-6.39,0,0.257,0.15,0,0.107,0.457,118.944,4
+242,5XvbaX4eAeNkScND1tInpr,Desde Menorzin,Raffé,Jogo do Milhão,0BMccF4OSgl180EzdVFY9m,62,194634,True,0.576,0.54,1,-5.081,1,0.321,0.222,0,0.104,0.181,77.01,4
+243,1uCasGURHhzPYiA7Hx7Rp6,Duas Doses,Raffé,Duas Doses,0BMccF4OSgl180EzdVFY9m,59,176326,False,0.545,0.758,8,-7.338,0,0.559,0.185,0,0.0881,0.296,98.4,4
+244,3tpfnn4QoKrkzWW20UKili,Tropa do Mantém,Raffé,O Sábio,0BMccF4OSgl180EzdVFY9m,59,238208,True,0.508,0.648,9,-5.641,1,0.167,0.241,0,0.0989,0.653,134.107,4
+245,5b9MS3By7f4PWJnCH1Aseh,Carro Bicho 2,Raffé,Troféu,0BMccF4OSgl180EzdVFY9m,52,164357,True,0.884,0.697,11,-6.07,1,0.338,0.637,0,0.143,0.555,130.075,4
+246,64iH0ee2OM1cMHqlD1aDp0,Pra Valer,Raffé,Jogo do Milhão,0BMccF4OSgl180EzdVFY9m,49,171034,True,0.697,0.714,2,-4.447,1,0.0709,0.0402,0,0.29,0.529,87.103,4
+247,2KdmPCG0fhol4dv15sXkEf,Baby,Raffé,Mixtape Rock Danger de Verão,0BMccF4OSgl180EzdVFY9m,49,177479,True,0.717,0.605,0,-6.389,0,0.134,0.385,0,0.118,0.635,118.965,4
+248,6vTLifSitdCLir5e6Zr5uF,Jogo do Milhão,Raffé,Jogo do Milhão,0BMccF4OSgl180EzdVFY9m,48,166265,True,0.617,0.666,8,-4.657,0,0.218,0.487,0,0.156,0.626,81.85,4
+249,0Aq8w6a9LKyXWZ0CxOKXGF,Olhos Vermelhos,Raffé,Jogo do Milhão,0BMccF4OSgl180EzdVFY9m,47,160000,True,0.883,0.679,4,-3.702,0,0.0676,0.107,0,0.103,0.498,120.082,4
+250,7xi4XR5EIOU6OHdIydLMjT,Uma Ex (Ao Vivo),Jorge,Pra Ouvir Tomando uma 2 (Parte 1),6gLW5LlLEXdtWaS0EWfzaJ,59,218806,False,0.627,0.651,5,-4.15,1,0.0461,0.521,0,0.952,0.666,104.816,4
+251,6fnllD5G17xWSQJwmC4ONB,Chovendo Na Minha Bochecha,Jorge,O Pai Das Crianças (Part. 1),6gLW5LlLEXdtWaS0EWfzaJ,42,191546,False,0.605,0.813,6,-3.198,0,0.07,0.299,0,0.196,0.638,129.95,4
+252,2sLQ85T5KmCXWhqc5L54ub,Pode Parar (Ao Vivo),Jorge,Na Balsa (Ao Vivo),6gLW5LlLEXdtWaS0EWfzaJ,33,190208,False,0.71,0.681,11,-8.533,1,0.0495,0.492,0,0.159,0.935,89.958,4
+253,7mAxVBYWHKy5VNUqP6TMjB,31.12,Jorge,Verao 2015,6gLW5LlLEXdtWaS0EWfzaJ,15,262374,False,0.653,0.667,9,-11.202,0,0.0386,0.269,1.12e-05,0.217,0.443,127.942,4
+254,7AK0oHr1PLASUj9EQFSeuJ,Olvidala,Jorge,www.bachata.com,6gLW5LlLEXdtWaS0EWfzaJ,8,288133,False,0.955,0.584,2,-7.244,1,0.0417,0.111,0.000128,0.0449,0.845,129.858,4
+255,0p2Dp7pwd0933vRpg4moNG,Você Não Me Esqueceu (Nem Muito Menos Eu) - Ao Vivo,Jorge,Ao Vivo Em Brasília,6gLW5LlLEXdtWaS0EWfzaJ,44,194443,False,0.646,0.923,4,-5.044,0,0.0583,0.499,6.11e-06,0.767,0.502,101.952,4
+256,0JynGGQr2yrglBpvlUiLyO,Eu Amo Todas - Ao Vivo,Jorge,O (IM)POSSÍVEL - PARTE 1 [Ao Vivo],6gLW5LlLEXdtWaS0EWfzaJ,39,164358,False,0.483,0.754,10,-4.728,1,0.166,0.377,0,0.287,0.51,87.991,3
+257,6We0ie2pfv2gzjsn166Bb1,Atrapado,Jorge,Foto Rodriguez y La Orquesta La Unica,6gLW5LlLEXdtWaS0EWfzaJ,41,306760,False,0.69,0.654,7,-8.199,0,0.0347,0.797,8.57e-05,0.0327,0.87,88.089,4
+258,3usoUJu7z8YMd4xXc0Adxw,Com amor não se brinca,Jorge,Com amor não se brinca,6gLW5LlLEXdtWaS0EWfzaJ,4,231334,False,0.537,0.943,8,-2.451,1,0.0707,0.0188,0,0.876,0.539,89.75,4
+259,7glhv5VJtEmTtZODq3EJjJ,Um Dia de Você e Eu,Jorge,Um Dia de Você e Eu,6gLW5LlLEXdtWaS0EWfzaJ,34,180586,False,0.76,0.682,7,-2.869,1,0.0281,0.826,0,0.0978,0.711,104.918,4
+260,4UKk3PTaQkxlZCbsGOea18,Humanos A Marte,Paula Fernandes,Ecuador Escucha Pop,1nca3OA1kKCpP6aPJcBL92,33,227186,False,0.702,0.913,6,-4.18,0,0.041,0.251,1e-06,0.178,0.815,92.979,4
+261,69Ui5HCL3ckbnnwtnZoGRo,Jeito De Mato,Paula Fernandes,Pássaro De Fogo,1nca3OA1kKCpP6aPJcBL92,59,298506,False,0.312,0.23,9,-10.224,1,0.0333,0.9,0,0.0973,0.164,202.902,3
+262,179go5s1ouLR7DRtMhbxnA,Não Precisa - Live,Paula Fernandes,Paula Fernandes Ao Vivo (Live From São Paulo / 2010),1nca3OA1kKCpP6aPJcBL92,57,211946,False,0.69,0.584,9,-7.724,1,0.0342,0.653,0,0.776,0.501,108.032,4
+263,1m4beBDqxCVOdJFvXL7DEg,Pássaro De Fogo,Paula Fernandes,Pássaro De Fogo,1nca3OA1kKCpP6aPJcBL92,57,244920,False,0.448,0.414,7,-7.961,1,0.0321,0.71,0,0.151,0.405,183.839,4
+264,65BYlgUGQX2f30TeIaJOrM,Beijo Bom,Paula Fernandes,Beijo Bom,1nca3OA1kKCpP6aPJcBL92,55,199841,False,0.601,0.333,5,-12.795,1,0.0461,0.706,1.68e-05,0.104,0.391,75.954,4
+265,6wW7anTPsV6yNguUKHBxFK,Despertador - Ao Vivo,Paula Fernandes,Despertador (Ao Vivo),1nca3OA1kKCpP6aPJcBL92,54,181924,False,0.688,0.694,0,-5.243,1,0.0587,0.615,0,0.735,0.413,129.802,4
+266,5eRzzRKDK0rjQadOtyFwZ3,Tocando Em Frente - Live,Paula Fernandes,Paula Fernandes Ao Vivo (Live From São Paulo / 2010),1nca3OA1kKCpP6aPJcBL92,52,209386,False,0.562,0.586,6,-8.338,1,0.0255,0.58,0.000322,0.713,0.506,97.92,3
+267,0kXCvkCi4gupOeHeafHL1G,Pra Você - Live,Paula Fernandes,Paula Fernandes Ao Vivo (Live From São Paulo / 2010),1nca3OA1kKCpP6aPJcBL92,52,215280,False,0.642,0.583,5,-7.104,1,0.0409,0.665,1.47e-05,0.78,0.455,157.77,4
+268,0mho2ZYvHCtfusBpARJZhq,Sem Você,Paula Fernandes,Pássaro De Fogo,1nca3OA1kKCpP6aPJcBL92,52,229586,False,0.412,0.584,10,-6.446,1,0.0341,0.363,0,0.279,0.612,200.319,3
+269,2PIWldP9oUhb9iqe3EJh1e,Juntos,Paula Fernandes,Juntos,1nca3OA1kKCpP6aPJcBL92,51,204000,False,0.687,0.411,3,-8.619,1,0.0338,0.866,0,0.0967,0.184,101.851,4
+270,3fpsR525Hmk4eBm5wfJIQW,Por Causa Dele - Ao Vivo,Kellen Byanca,Por Causa Dele,0aCN6JIKoXyhkzyL3LaCpI,71,352396,False,0.467,0.591,3,-7.183,1,0.0381,0.67,0,0.755,0.329,123.599,4
+271,4Ey5FMSIs45TMBtW83U4DF,Está Tudo Bem,Kellen Byanca,Está Tudo Bem,0aCN6JIKoXyhkzyL3LaCpI,64,352533,False,0.482,0.633,11,-5.472,1,0.0313,0.0954,0,0.114,0.351,116.933,4
+272,3iw959smgKf8scwjRCRjgZ,Pode Dormir Tranquilo,Kellen Byanca,Pode Dormir Tranquilo,0aCN6JIKoXyhkzyL3LaCpI,56,288457,False,0.716,0.524,10,-5.097,1,0.0349,0.457,0,0.0733,0.273,125.822,4
+273,1zRAfyjNXS8FlSVLJLr6ix,Estou Te Preparando,Kellen Byanca,Estou Te Preparando,0aCN6JIKoXyhkzyL3LaCpI,48,274176,False,0.525,0.674,8,-4.851,1,0.0415,0.0347,0,0.11,0.337,131.813,4
+274,3L4SkcXhs1r1zeTi3gskdp,Árvore Cortada - Acústico,Kellen Byanca,Árvore Cortada,0aCN6JIKoXyhkzyL3LaCpI,47,425460,False,0.394,0.585,5,-6.088,1,0.0398,0.461,0,0.136,0.351,139.945,4
+275,6ECXghsnWoGD85eOcuPWUX,Ele Não Mudou,Kellen Byanca,Ele Não Mudou,0aCN6JIKoXyhkzyL3LaCpI,47,269183,False,0.559,0.632,8,-4.869,1,0.0309,0.105,0,0.15,0.31,133.816,4
+276,5EyxLxAeXQufZxFIqyV5sB,Vou Marcar Tua História,Kellen Byanca,Vou Marcar Tua História,0aCN6JIKoXyhkzyL3LaCpI,46,249983,False,0.566,0.505,0,-6.063,1,0.0328,0.413,0,0.385,0.566,117.485,4
+277,5eltkYyhSccW8uuEz0Zrqa,A Voz do Doce Espírito - Ao Vivo,Kellen Byanca,A Voz do Doce Espírito (Ao Vivo),0aCN6JIKoXyhkzyL3LaCpI,43,351613,False,0.52,0.706,6,-6.103,0,0.0322,0.0393,0,0.22,0.486,113.988,4
+278,1kvm741326ae0jl9mnTyGq,Senhor do Tempo,Kellen Byanca,Senhor do Tempo,0aCN6JIKoXyhkzyL3LaCpI,43,274803,False,0.483,0.513,3,-5.91,1,0.0337,0.556,0,0.254,0.243,101.789,4
+279,1kFTihWjdy8DCeSuxagORd,Vendavais,Kellen Byanca,Vendavais,0aCN6JIKoXyhkzyL3LaCpI,42,284090,False,0.356,0.443,0,-5.149,0,0.0316,0.66,0,0.217,0.336,54.78,4
+280,0L0QchpcV0BtpuuCgJNVRb,Gestão Inteligente 2,André Nine,Gestão Inteligente 2,5cc7XCY3YdVmFDYw9LklMq,64,135240,False,0.892,0.59,5,-8.981,0,0.213,0.456,0,0.0906,0.81,125.03,4
+281,0a3Bfmq7czUFUsk2VZUA28,Sitio do Tio Harry,André Nine,Coisas Que Eu Só Falaria Brincando,5cc7XCY3YdVmFDYw9LklMq,63,291882,True,0.682,0.694,1,-6.353,1,0.43,0.448,0,0.298,0.732,84.306,4
+282,1GfaEaJKRTV61lBZ4256rO,Playboy,André Nine,Wally (Deluxe),5cc7XCY3YdVmFDYw9LklMq,57,203142,False,0.751,0.44,5,-8.77,1,0.0795,0.251,0,0.115,0.367,140.073,4
+283,7gMWTBRgB5CZdNDSuweCyr,Se Essa Bunda,André Nine,Se Essa Bunda,5cc7XCY3YdVmFDYw9LklMq,60,249125,False,0.946,0.595,1,-7.198,1,0.137,0.183,0,0.0363,0.835,120.009,4
+284,3mEX14bKdKMZwf87MRSt39,Maquiagem,André Nine,Maquiagem,5cc7XCY3YdVmFDYw9LklMq,53,145655,True,0.803,0.554,4,-8.72,0,0.0544,0.0958,0,0.0966,0.579,145.068,4
+285,2jCsrXVY9u616UD2M1RMsY,UAU!,André Nine,AUGE,5cc7XCY3YdVmFDYw9LklMq,44,189350,True,0.849,0.586,1,-7.239,1,0.336,0.0586,0,0.0631,0.902,77.002,4
+286,6alYP3Evm5VVWuvaEQFyln,Click Click,André Nine,Click Click,5cc7XCY3YdVmFDYw9LklMq,46,210782,True,0.832,0.666,0,-7.045,1,0.299,0.24,0,0.047,0.68,114.873,4
+287,2nJaFyAstY9b7vQOige2yf,Como Deus É Bom,André Nine,7 Dígitos,5cc7XCY3YdVmFDYw9LklMq,42,167567,False,0.735,0.58,10,-7.183,0,0.24,0.554,2.88e-05,0.128,0.549,92.942,4
+288,2Eg9fqMi2VbGu9Sp3ClNZj,Resgate,André Nine,DMC By Costa Gold,5cc7XCY3YdVmFDYw9LklMq,42,282606,True,0.84,0.566,2,-6.34,1,0.309,0.3,0,0.327,0.525,135.1,4
+289,2XgJGhTa9XFe7BpsFJDsLf,Paranóia,André Nine,Paranóia,5cc7XCY3YdVmFDYw9LklMq,41,232750,False,0.862,0.565,7,-8.185,1,0.196,0.374,0,0.0767,0.653,119.979,3
+290,4NWqFtTU1wnvlsU7XjeIGM,Mina Sensação,Deavele Santos,Plutão,4pby53BFNfng1G88nYhBaM,66,112518,False,0.685,0.953,7,-1.945,1,0.0399,0.313,0.0177,0.0952,0.73,93.033,4
+291,5blfWAryX3tMCRN4cMhce3,Farra Sem Limites - Ao Vivo,Deavele Santos,Wesley Safadão Ao Vivo Em Fortaleza,4pby53BFNfng1G88nYhBaM,59,146451,False,0.785,0.917,1,-3.684,0,0.13,0.235,6.57e-05,0.453,0.917,93.029,4
+292,4tDUIRZU50xaP0uRAGklqy,Pra pra pra,Deavele Santos,Plutão,4pby53BFNfng1G88nYhBaM,65,142734,False,0.762,0.94,11,-1.789,0,0.0448,0.212,0.00287,0.0699,0.762,98.065,4
+293,7HhiRXFhkESVTNwGtzZAim,Farra 100 Limite,Deavele Santos,Plutão,4pby53BFNfng1G88nYhBaM,59,138655,False,0.776,0.942,6,-2.627,0,0.0471,0.321,0.00233,0.0925,0.844,93.037,4
+294,0Q88YwEhAAOli0lAWxbD14,Mina Sensação,Deavele Santos,Mina Sensação,4pby53BFNfng1G88nYhBaM,54,130968,False,0.568,0.907,9,-2.701,0,0.0516,0.412,0.000137,0.366,0.764,175.939,4
+295,2gfTGsQTrs1JrK4r49Wo5f,Vai Ter Piseiro,Deavele Santos,Jogador Nº 1,4pby53BFNfng1G88nYhBaM,52,153196,False,0.596,0.936,7,-1.226,0,0.0421,0.255,0.000557,0.158,0.892,186.01,4
+296,0mMRPFQLYq7i5sVmIYbZLQ,Hoje Eu Tô Demais,Deavele Santos,Hoje Eu Tô Demais,4pby53BFNfng1G88nYhBaM,47,196314,False,0.548,0.984,0,-2.248,0,0.0339,0.329,6.72e-06,0.345,0.965,167.968,4
+297,0CIYdaLK1YpsdJYucDFQ79,Taca Taca,Deavele Santos,"Bota Pressão, Bota Piseiro",4pby53BFNfng1G88nYhBaM,47,129639,False,0.726,0.906,6,-5.115,0,0.0671,0.168,0.0944,0.242,0.903,186.177,4
+298,4jkIX6VxvXbQK4sCY6y8Zr,Novinha Maluca,Deavele Santos,2022,4pby53BFNfng1G88nYhBaM,46,103440,False,0.655,0.827,1,-4.629,1,0.208,0.241,0.104,0.0257,0.833,200.097,4
+299,26banL6vfC6tXkbkWdLv47,Baile Louco,Deavele Santos,Plutão,4pby53BFNfng1G88nYhBaM,41,108386,False,0.88,0.884,10,-2.566,0,0.125,0.169,0.000709,0.206,0.937,98.045,4
+300,6fazW2YcCSwJRdkoWls1FB,Brazilian Phonk Mano,Crazy Mano,Brazilian Phonk Mano,6QwlKB1hO357wh5oNuuInl,80,84576,False,0.875,0.883,1,-2.958,0,0.124,0.00462,0.538,0.107,0.807,130.044,4
+301,7vtGOauV0Zz8Px5EJYm7d7,Life in Rio,Crazy Mano,Life in Rio,6QwlKB1hO357wh5oNuuInl,76,94418,True,0.726,0.971,2,-2.126,1,0.0408,0.00393,0.275,0.446,0.7,129.081,4
+302,34lJpf1XeT6mS58S5Dwqn6,Brazilian Phonk Mano - Super Slowed,Crazy Mano,Brazilian Phonk Mano (Super Slowed),6QwlKB1hO357wh5oNuuInl,74,106562,False,0.893,0.695,11,-3.382,1,0.0455,0.0357,0.134,0.124,0.109,103.162,4
+303,5Vi95PRPjsGuFSTuJvshxR,Phonk Up Brazil,Crazy Mano,Phonk Up Brazil,6QwlKB1hO357wh5oNuuInl,72,90461,False,0.772,0.916,7,-2.566,1,0.0664,0.00783,0.67,0.213,0.292,130.05,4
+304,5qvBojdG05Ec8cUqPKG4Ue,dropitlikeitshot!,Crazy Mano,dropitlikeitshot!,6QwlKB1hO357wh5oNuuInl,71,105486,True,0.799,0.86,1,-6.369,0,0.0532,0.00556,1.75e-05,0.324,0.285,130.072,4
+305,3S9xFuZvWb0FuC7sN8Iiek,Coopa,Crazy Mano,Coopa,6QwlKB1hO357wh5oNuuInl,70,89600,True,0.578,0.858,11,-6.705,1,0.217,0.00556,3.15e-05,0.125,0.619,149.994,4
+306,6zX9Jhq8lB6DRiMIzNTxet,coqueta,Crazy Mano,coqueta,6QwlKB1hO357wh5oNuuInl,69,154489,False,0.733,0.854,4,-3.404,1,0.0561,0.242,0.00017,0.0867,0.361,108.989,4
+307,6wntHk37oMHAqt71RrZOeF,BALADINHA SINISTRA,Crazy Mano,BALADINHA SINISTRA,6QwlKB1hO357wh5oNuuInl,69,118646,False,0.958,0.921,0,-3.096,1,0.324,0.271,0.0342,0.0852,0.872,132.983,4
+308,6VQ5vY3o0JyjrMRdLmRFKN,ultrakill de funk,Crazy Mano,ultrakill de funk,6QwlKB1hO357wh5oNuuInl,67,92000,False,0.709,0.803,7,-4.796,1,0.0612,0.503,0.051,0.122,0.106,126.926,4
+309,3xxb7JTqrnyXbJ59tmw5fK,Matador De Dragão,Crazy Mano,Matador De Dragão,6QwlKB1hO357wh5oNuuInl,67,92904,False,0.686,0.944,11,-0.28,1,0.11,0.0283,0.734,0.553,0.604,149.752,4
+310,3FAclTFfvUuQYnEsptbK8w,Back To Black,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,81,241293,True,0.403,0.422,7,-13.964,0,0.0373,0.134,2.05e-05,0.0861,0.378,122.728,4
+311,6nLvaCZFR1wEzW3sIKpsnr,"Valerie - Live At BBC Radio 1 Live Lounge, London / 2007",Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,77,233733,False,0.772,0.371,5,-5.743,0,0.0348,0.744,0,0.167,0.684,96.574,4
+312,3N4DI1vuTSX1tz7fa2NQZw,Rehab,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,75,214946,False,0.407,0.558,0,-13.609,1,0.0552,0.0541,1.51e-06,0.34,0.777,71.815,4
+313,0DMRKqrpd0QO4RWiEdMib0,You Know I'm No Good,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,74,257186,False,0.694,0.496,9,-14.222,1,0.0329,0.0139,0.00356,0.0644,0.799,103.372,4
+314,7MDfN1ldfTMtuXXdVz2Pzc,Tears Dry On Their Own,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,73,186440,True,0.634,0.543,1,-13.391,0,0.181,0.525,0,0.232,0.467,121.557,4
+315,3uliGwmB52ZA7brgpZMzyH,Love Is A Losing Game,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,69,155413,False,0.484,0.293,0,-16.544,1,0.0311,0.337,0.00627,0.146,0.562,165.008,4
+316,0RfzQhbvtn5lOaKdhpAni7,Me & Mr Jones,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,68,153173,True,0.583,0.486,4,-13.165,1,0.0759,0.518,0,0.0665,0.513,87.837,4
+317,3eVo0wD4kGwF3gshtecZso,He Can Only Hold Her,Amy Winehouse,Back To Black (Deluxe Edition),6Q192DXotxtaysaqNPy5yR,66,166400,False,0.626,0.504,11,-14.978,1,0.073,0.021,0.00843,0.0684,0.713,98.391,4
+318,5LC7nItIEFp4nzdFdEGbf9,Stronger Than Me,Amy Winehouse,AMY (Original Motion Picture Soundtrack),6Q192DXotxtaysaqNPy5yR,65,214493,False,0.883,0.458,9,-6.801,0,0.0411,0.0401,0.000419,0.0603,0.816,91.426,4
+319,4NDpn6yfD5aqafYWFEaJDz,Our Day Will Come,Amy Winehouse,Lioness: Hidden Treasures,6Q192DXotxtaysaqNPy5yR,65,169373,False,0.705,0.634,5,-6.083,0,0.0282,0.0405,3.53e-05,0.349,0.639,98.008,4
+320,4unpSpFKk3d8H08AmLvrHj,DAMN!,Emitê Único,Essa é a Vida de um Corredor,4z8ieq95PTFrqoxYhozY75,68,136875,True,0.945,0.382,0,-9.671,0,0.311,0.415,0,0.0709,0.83,127.967,4
+321,61BxiY7A9V9FC2IL7llA76,Ritmo de Copa,Emitê Único,Ritmo de Copa,4z8ieq95PTFrqoxYhozY75,60,158400,True,0.774,0.773,4,-9.9,0,0.284,0.408,0,0.393,0.711,100.057,4
+322,3UP1a3X6uJ1hidEtcGao21,Se F#Deu!,Emitê Único,Se F#Deu!,4z8ieq95PTFrqoxYhozY75,49,139274,True,0.862,0.614,1,-9.835,1,0.299,0.118,1.11e-06,0.252,0.515,96.546,4
+323,1uQgLTXseXwLrbeBCFKJEd,Draco Hi-Tec,Emitê Único,Draco Hi-Tec,4z8ieq95PTFrqoxYhozY75,43,160000,True,0.859,0.615,3,-6.608,0,0.257,0.443,0,0.22,0.892,137.915,4
+324,4ZVXj7k01TQjOkvBUj699D,Lua,Emitê Único,Lua,4z8ieq95PTFrqoxYhozY75,39,187200,True,0.834,0.504,8,-9.284,0,0.213,0.108,4.86e-05,0.171,0.55,100.098,4
+325,78DbsKrNxenjoruzFGQYLz,Marry Me?,Emitê Único,Marry Me?,4z8ieq95PTFrqoxYhozY75,14,162253,True,0.65,0.337,5,-9.201,0,0.0511,0.894,0.0022,0.105,0.468,141.988,4
+326,2LN6uKeymJF53TtDUvaGf6,Roleta Russa,Emitê Único,Roleta Russa,4z8ieq95PTFrqoxYhozY75,13,173233,True,0.696,0.594,2,-9.064,0,0.184,0.748,2.99e-06,0.0955,0.328,133.016,4
+327,7vbGO3jX627bSq7rgTeWfJ,Quero Conhecer Jesus,Alessandro Vilas Boas,O Fogo Nunca Dorme,7nMA5jUpayvsedWUkX9lx7,63,360187,False,0.431,0.382,6,-8.367,0,0.0308,0.615,0.00164,0.16,0.0576,129.857,4
+328,7wMOMbTZHe4ZjHSx1b8kUN,O Carpinteiro - Ao Vivo,Alessandro Vilas Boas,O Carpinteiro (Ao ViVo),7nMA5jUpayvsedWUkX9lx7,57,834293,False,0.364,0.775,1,-6.954,0,0.0454,0.0454,0.00339,0.726,0.0521,132.125,4
+329,3KUfgAyzA23BgdqcpdpN9Q,O Fogo Nunca Dorme,Alessandro Vilas Boas,O Fogo Nunca Dorme,7nMA5jUpayvsedWUkX9lx7,56,307153,False,0.481,0.441,0,-8.373,1,0.0269,0.693,0.000337,0.11,0.0731,131.933,4
+330,1sfmj3FsBOXLpnBbJ3ZGZ7,Ser Mudado,Alessandro Vilas Boas,O Fogo Nunca Dorme,7nMA5jUpayvsedWUkX9lx7,55,345512,False,0.474,0.513,7,-7.374,1,0.0312,0.106,0.000358,0.107,0.118,131.722,4
+331,5vTrG8oScFzzTvf1HY2aNB,Tu És Tudo,Alessandro Vilas Boas,Peregrino,7nMA5jUpayvsedWUkX9lx7,53,425621,False,0.395,0.247,2,-11.191,1,0.0329,0.396,0.00143,0.228,0.102,125.878,4
+332,0ZuaT85fdeuMCh1XuTgKzt,Peregrino,Alessandro Vilas Boas,Peregrino,7nMA5jUpayvsedWUkX9lx7,53,339191,False,0.423,0.385,0,-9.662,1,0.0302,0.438,2.87e-05,0.132,0.168,126.141,4
+333,1NAaVQCd3Pp00WsqHsRHjr,Maranata,Alessandro Vilas Boas,Obsessão: Live At Home V,7nMA5jUpayvsedWUkX9lx7,47,1044000,False,0.315,0.164,0,-13.978,1,0.0298,0.604,0,0.13,0.134,101.631,4
+334,2Dz9O7e9qkK0HdFJyqLDlp,Já Estive em Outros Lugares - Live,Alessandro Vilas Boas,Nossa Canção (Live),7nMA5jUpayvsedWUkX9lx7,51,655978,False,0.302,0.29,7,-10.085,1,0.0325,0.899,0.00685,0.126,0.178,118.422,4
+335,7KdhlzO7mTR5u4fgF5cYmm,Deixa Queimar - Ao Vivo,Alessandro Vilas Boas,O Carpinteiro (Ao ViVo),7nMA5jUpayvsedWUkX9lx7,49,556684,False,0.439,0.574,7,-9.128,1,0.0295,0.262,0.0864,0.11,0.121,135.897,4
+336,3Va9Bf2XAhPCNiBLS2OmHU,Fogo Em Meus Ossos,Alessandro Vilas Boas,O Fogo Nunca Dorme,7nMA5jUpayvsedWUkX9lx7,49,248639,False,0.357,0.369,0,-9.462,1,0.03,0.653,4.94e-06,0.14,0.0776,116.907,4
+337,1PPPmorSg9gOF9qAbmQ7Db,Chapéu Preto - Ao Vivo,Fiduma & Jeca,Chapéu Preto (Ao Vivo),2h73KyGixa4A1xlhcxjpG1,69,163360,False,0.612,0.923,6,-3.132,1,0.0693,0.0802,0,0.23,0.635,141.737,4
+338,28CeosaXjmcPqrn2iS5GpB,Igrejinha Azul,Fiduma & Jeca,Alcooústico 2,2h73KyGixa4A1xlhcxjpG1,57,206912,False,0.689,0.587,9,-4.42,1,0.0292,0.701,0,0.108,0.474,105.919,4
+339,4IOL6A3QMCu9MdfDYIHUJh,Butecologia,Fiduma & Jeca,Alcooústico 2,2h73KyGixa4A1xlhcxjpG1,54,170657,False,0.73,0.873,4,-3.631,1,0.0507,0.563,0,0.178,0.878,135.031,4
+340,6yLqg82KPkiWyqPEgUj4Bj,Falando Sério / Querendo Te Amar,Fiduma & Jeca,De 2000 pra Frente,2h73KyGixa4A1xlhcxjpG1,50,193205,False,0.478,0.81,9,-4.67,1,0.0792,0.295,0,0.097,0.703,132.846,4
+341,6a2snL1CviSi29LB0FIJyr,Eu e o Violão - Ao Vivo,Fiduma & Jeca,Laive Rodeo Show (Ao Vivo),2h73KyGixa4A1xlhcxjpG1,40,199680,False,0.678,0.517,11,-9.774,1,0.0481,0.55,0,0.201,0.813,115.727,4
+342,758SI0s6PYW2jiRMR1C83N,Gin na Mente,Fiduma & Jeca,Gin na Mente,2h73KyGixa4A1xlhcxjpG1,52,140751,False,0.677,0.789,9,-6.188,1,0.0413,0.582,0,0.225,0.858,132.951,4
+343,6ZEVE9gBIi7MnO2szA8yWg,Quadros (feat. João Carreiro) - Ao Vivo,Fiduma & Jeca,Depois da Chuva (Ao Vivo),2h73KyGixa4A1xlhcxjpG1,49,202973,False,0.581,0.705,4,-3.116,1,0.029,0.497,0,0.475,0.207,105.956,4
+344,7FSEU4FHiqLVdSSEhrie8Q,Paz Interior,Fiduma & Jeca,Alcooústico 2,2h73KyGixa4A1xlhcxjpG1,47,191392,False,0.777,0.602,4,-5.049,1,0.043,0.634,0,0.274,0.633,129.952,4
+345,4e2c9bcg8uD67LSHn63iXW,Copo da Stanley,Fiduma & Jeca,Copo da Stanley,2h73KyGixa4A1xlhcxjpG1,48,201152,False,0.566,0.924,6,-2.351,0,0.12,0.522,2.6e-06,0.487,0.64,135.893,4
+346,3fF9zm23xwyuVsyiP3nZsP,Ruim de Mexer,Fiduma & Jeca,Era Pra Ser Ao Vivo,2h73KyGixa4A1xlhcxjpG1,37,156671,False,0.633,0.748,1,-6.16,0,0.109,0.641,0,0.332,0.885,89.943,4
+347,6kvoHl80mfCVTv7XnZkjQn,"It Must Have Been Love - From the Film ""Pretty Woman""",Roxette,It Must Have Been Love,2SHhfs4BiDxGQ3oxqf0UHY,78,258786,False,0.52,0.652,5,-6.655,1,0.0274,0.34,5.49e-05,0.256,0.722,80.609,4
+348,5JvsxPAHsGxwNq4xto2HtM,Listen To Your Heart,Roxette,Look Sharp! (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,75,328093,False,0.539,0.583,1,-4.935,0,0.0275,0.108,0,0.111,0.337,86.063,4
+349,2oWMI54r0qT4N8Xb4C76vq,The Look,Roxette,Look Sharp! (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,73,237320,False,0.634,0.838,2,-5.363,1,0.0413,0.0531,8.34e-06,0.0522,0.541,95.011,4
+350,2OHym1q6nzgtT75UCNjjro,Spending My Time,Roxette,Joyride (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,69,275666,False,0.42,0.574,4,-5.149,1,0.0292,0.238,0.000115,0.127,0.218,170.549,4
+351,3r6lBKYbdru7e7ky2MiF75,Fading Like A Flower (Every Time You Leave),Roxette,Joyride (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,67,230680,False,0.609,0.668,0,-5.738,1,0.026,0.195,0,0.219,0.319,105.419,4
+352,4Hn14NabX651eOOzsLL8Uc,How Do You Do!,Roxette,Tourism (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,66,189093,False,0.619,0.72,0,-6.584,1,0.0275,0.0194,1.68e-06,0.218,0.852,120.874,4
+353,3y8pywLbRGC1x8oCDeTMyL,Dressed For Success,Roxette,Look Sharp! (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,62,249840,False,0.744,0.67,5,-5.305,1,0.0298,0.0831,0,0.184,0.856,119.706,4
+354,3Skwc4sh1QHUGcWrFBFWSF,Joyride - Single Version,Roxette,Don't Bore Us - Get to the Chorus! Roxette's Greatest Hits,2SHhfs4BiDxGQ3oxqf0UHY,63,241733,False,0.651,0.74,2,-6.244,1,0.0272,0.0862,0,0.142,0.615,102.233,4
+355,61uXORSNIY7p03t5V7DH7z,Dangerous,Roxette,Look Sharp! (Extended Version),2SHhfs4BiDxGQ3oxqf0UHY,62,228866,False,0.712,0.898,4,-4.893,1,0.0336,0.0485,7.76e-06,0.148,0.961,124.409,4
+356,5L5JUSGOaH6lulTUltJfgE,Fading Like A Flower,Roxette,ROX RMX Vol. 1 (Remixes From The Roxette Vaults),2SHhfs4BiDxGQ3oxqf0UHY,54,145807,False,0.701,0.901,5,-4.34,1,0.046,0.018,1.08e-06,0.0665,0.908,121.022,4
+357,1ujxjsoNvh4XgS2fUNwkZ2,Space Song,Beach House,Depression Cherry,56ZTgzPBDge0OvCGgMO3OY,76,320466,False,0.509,0.79,0,-7.105,0,0.0293,0.218,0.125,0.144,0.625,147.073,4
+358,6uz2JnWMcYfmWgJ7XEsjui,Silver Soul,Beach House,Teen Dream,56ZTgzPBDge0OvCGgMO3OY,59,298680,False,0.355,0.671,2,-5.824,1,0.0324,0.471,0.00011,0.288,0.113,135.027,4
+359,2vAts2sr7wl8NJwd8qmUEo,Myth,Beach House,Bloom,56ZTgzPBDge0OvCGgMO3OY,55,258653,False,0.445,0.705,3,-6.257,1,0.0292,0.0325,0.0917,0.0828,0.409,141.953,4
+360,1zampxUEvQWKx1nE2OvwQ6,Wildflower,Beach House,Depression Cherry,56ZTgzPBDge0OvCGgMO3OY,53,219453,False,0.44,0.513,3,-7.613,1,0.0276,0.522,0.496,0.0908,0.209,81.091,4
+361,0Hz3Bf0SjlKlqYvIwH9a70,Holiday House,Beach House,Become,56ZTgzPBDge0OvCGgMO3OY,64,306106,False,0.402,0.675,0,-7.575,1,0.0283,0.49,0.949,0.096,0.0916,133.87,4
+362,38PTaSqKcn1NKafQRdXSby,PPP,Beach House,Depression Cherry,56ZTgzPBDge0OvCGgMO3OY,50,368546,False,0.49,0.464,1,-7.478,1,0.0284,0.381,0.894,0.0555,0.142,104.896,3
+363,49YNqlIbBD2c41o3Oc0vK4,Devil's Pool,Beach House,Become,56ZTgzPBDge0OvCGgMO3OY,62,240120,False,0.322,0.611,11,-8.906,1,0.0304,0.446,0.736,0.21,0.264,175.44,4
+364,2AZZvIAll2lG6zWApWzCx0,Wherever You Go,Beach House,B-Sides and Rarities,56ZTgzPBDge0OvCGgMO3OY,47,206624,False,0.54,0.423,9,-11.081,1,0.0304,0.222,0.944,0.227,0.211,128.029,4
+365,3stWWPN41byqp8loPdy92u,Master of None,Beach House,Beach House,56ZTgzPBDge0OvCGgMO3OY,63,199413,False,0.492,0.344,5,-15.259,1,0.0259,0.674,0.531,0.0933,0.247,86.485,4
+366,0D2m3GX6mNfNB6dKJQjCgM,Take Care,Beach House,Teen Dream,56ZTgzPBDge0OvCGgMO3OY,49,348440,False,0.567,0.865,1,-7.401,1,0.0289,0.472,0.000437,0.0845,0.421,110.851,3
+367,0ueSj6goFDHHKCADDz56H4,Meu Lugar,Onze:20,A Nossa Barraca,3MDJ79txY73BUpAR7RnJEk,62,223478,False,0.733,0.765,10,-7.195,1,0.0372,0.0568,0,0.428,0.95,91.996,4
+368,0WKqlUwMcxvJj8HS5Kah7Q,Pra Você,Onze:20,Pra Você,3MDJ79txY73BUpAR7RnJEk,57,218128,False,0.546,0.588,0,-7.004,0,0.047,0.323,0,0.389,0.613,140.087,4
+369,4NebH0wqHPjJALLeGHpX7Z,O Problema É Que Cê Sabe,Onze:20,O Problema É Que Cê Sabe,3MDJ79txY73BUpAR7RnJEk,56,158976,False,0.763,0.509,9,-8.308,1,0.114,0.699,0,0.102,0.796,94.036,4
+370,6sgCZybqq4ED7fHsDtahvK,Te Roubar pra Mim,Onze:20,Vida Loka,3MDJ79txY73BUpAR7RnJEk,54,190186,False,0.749,0.702,6,-6.611,1,0.0479,0.155,0,0.148,0.962,141.999,4
+371,4SrXpaZtMokUhhFkgzDMpK,Não Vai Voltar,Onze:20,A Nossa Barraca,3MDJ79txY73BUpAR7RnJEk,54,239072,False,0.641,0.617,5,-7.411,0,0.0307,0.413,0,0.112,0.941,139.942,4
+372,4Low3Ltbydze8MwekleuUA,Estações,Onze:20,[C]Alma,3MDJ79txY73BUpAR7RnJEk,50,197826,False,0.458,0.61,11,-7.492,1,0.0614,0.0383,0,0.101,0.506,136.86,4
+373,7yAwFhtyKi51mACxTqOiu7,Sem Medo de Amar,Onze:20,Vida Loka,3MDJ79txY73BUpAR7RnJEk,49,211397,False,0.645,0.636,6,-6.434,1,0.0702,0.172,0,0.173,0.907,169.848,4
+374,5KWvYZHwjJ6A3R41uJmpr7,Pra Falar de Amor,Onze:20,Histórias Pra Cantar,3MDJ79txY73BUpAR7RnJEk,49,209499,False,0.657,0.584,6,-7.078,1,0.0327,0.135,0,0.238,0.444,129.931,4
+375,38IXLHGxQknuYcOgpHdzy4,Querendo Te Encontrar,Onze:20,Vida Loka,3MDJ79txY73BUpAR7RnJEk,47,179584,False,0.443,0.381,3,-8.75,1,0.0345,0.664,0,0.115,0.323,64.026,4
+376,3t2ATXD52IUCkonAO2hShF,Todo Santo Dia,Onze:20,[C]Alma,3MDJ79txY73BUpAR7RnJEk,45,212714,False,0.614,0.549,8,-8.819,0,0.0286,0.115,0,0.329,0.663,147.934,4
+377,3TAMiM8XFmU9vFd333pgRh,Mistério do Planeta,Novos Baianos,Acabou Chorare,2ohBjgFT9V0LRDWO2wF9DJ,61,217960,False,0.61,0.495,1,-8.399,0,0.0891,0.8,2.52e-05,0.083,0.683,146.878,3
+378,4IIK7KvWCTSkVVRufxyh3d,Brasil pandeiro,Novos Baianos,Enciclopédia Musical Brasileira,2ohBjgFT9V0LRDWO2wF9DJ,58,235080,False,0.544,0.425,11,-12.074,1,0.0346,0.812,0.00137,0.0957,0.863,96.688,4
+379,3pSTUZbp7J5jg2JHChTf21,A Menina Dança,Novos Baianos,Acabou Chorare,2ohBjgFT9V0LRDWO2wF9DJ,56,232200,False,0.581,0.677,9,-7.428,0,0.0422,0.772,0.00468,0.129,0.91,105.468,4
+380,4P5f2NLw9GkgnbK5zs52Oj,Preta pretinha,Novos Baianos,Enciclopédia Musical Brasileira,2ohBjgFT9V0LRDWO2wF9DJ,53,400920,False,0.667,0.454,7,-12.165,1,0.0327,0.852,3.99e-05,0.117,0.724,125.065,4
+381,5V0HmhGqwjoDq0cHlI05GS,Swing de Campo Grande,Novos Baianos,Acabou Chorare,2ohBjgFT9V0LRDWO2wF9DJ,52,189040,False,0.764,0.697,11,-7.346,0,0.0525,0.781,0,0.163,0.937,104.016,4
+382,1ZetCeq3ZOSD2k64UNEBqf,Acabou Chorare,Novos Baianos,Acabou Chorare,2ohBjgFT9V0LRDWO2wF9DJ,50,253173,False,0.725,0.181,6,-13.824,0,0.0411,0.947,0.00387,0.111,0.357,111.122,4
+383,11gIxacOHnCVPL0dZ3xOnC,Na Cadência Do Samba,Novos Baianos,Vamos Pro Mundo,2ohBjgFT9V0LRDWO2wF9DJ,49,209026,False,0.774,0.789,1,-6.152,1,0.0421,0.557,0,0.434,0.918,100.808,4
+384,25M99TiZqVHkL9IFaPLUWn,Farol Da Barra,Novos Baianos,Novos Baianos,2ohBjgFT9V0LRDWO2wF9DJ,48,202200,False,0.58,0.147,4,-16.544,0,0.0704,0.966,0.00638,0.102,0.469,131.345,5
+385,5Y0fOjIwvBC7ZZC6l6dOPz,Dê Um Rolê - Ao Vivo,Novos Baianos,Infinito Circular (Ao Vivo),2ohBjgFT9V0LRDWO2wF9DJ,45,196533,False,0.522,0.55,0,-9.911,1,0.0662,0.188,0,0.754,0.391,138.276,4
+386,3DJvJBYZEMGOjHmzwwpJaB,O samba da minha terra,Novos Baianos,Dois Momentos,2ohBjgFT9V0LRDWO2wF9DJ,44,207160,False,0.471,0.927,10,-6.322,1,0.0648,0.374,0.000117,0.0671,0.766,111.627,4
+387,3JvKfv6T31zO0ini8iNItO,Another Love,Tom Odell,Long Way Down (Deluxe),2txHhyCwHjUEpJjWrEyqyX,92,244360,True,0.445,0.537,4,-8.532,0,0.04,0.695,1.65e-05,0.0944,0.131,122.769,4
+388,4Et6tUEO7biKxZEfJXpNj1,Another Love - Tiësto Remix,Tom Odell,Another Love (Tiësto Remix),2txHhyCwHjUEpJjWrEyqyX,77,185365,False,0.79,0.764,4,-4.685,0,0.0737,0.0836,0.0871,0.132,0.473,123.046,4
+389,4KlL5Bwlm4yHYxr0B2rHci,Heal,Tom Odell,Long Way Down (Deluxe),2txHhyCwHjUEpJjWrEyqyX,73,193080,False,0.445,0.179,1,-12.938,1,0.0396,0.952,0.00056,0.107,0.119,72.246,4
+390,1MtqOE9Uy6SZjPnBi1X7pQ,Best Day Of My Life,Tom Odell,Best Day of My Life,2txHhyCwHjUEpJjWrEyqyX,67,146895,True,0.687,0.187,7,-13.185,0,0.0344,0.983,0.00348,0.107,0.105,117.848,4
+391,1dWUBCoztAMZcqec1CAE6z,Butterflies (feat. AURORA),Tom Odell,Butterflies (feat. AURORA),2txHhyCwHjUEpJjWrEyqyX,70,130666,False,0.326,0.157,4,-16.287,0,0.0415,0.971,0.138,0.191,0.3,178.711,4
+392,5snyhxAh55A2wlNRH7VVZJ,Another Love - Zwette Edit,Tom Odell,Another Love (Zwette Edit),2txHhyCwHjUEpJjWrEyqyX,66,394573,False,0.87,0.554,4,-5.828,0,0.0635,0.0802,0.0739,0.115,0.462,123.998,4
+393,2Q3UgGcvhdaX6k13PDNguP,Can't Pretend,Tom Odell,Long Way Down (Deluxe),2txHhyCwHjUEpJjWrEyqyX,65,217840,False,0.468,0.473,1,-8.503,0,0.0281,0.278,0.00061,0.117,0.286,79.055,4
+394,1rGxG6Y5OgmSwGPRPJv9Q4,True Colours,Tom Odell,True Colours,2txHhyCwHjUEpJjWrEyqyX,65,143706,False,0.518,0.126,10,-12.102,1,0.0431,0.942,0,0.105,0.166,75.991,4
+395,6gDrPmfRqagFxMK1DZiRV4,Flying :)),Tom Odell,Best Day of My Life,2txHhyCwHjUEpJjWrEyqyX,64,179157,True,0.515,0.147,6,-15.054,1,0.0316,0.965,0.0373,0.112,0.3,133.402,4
+396,2GMnysJaMa483o0gIOinzB,Smiling All The Way Back Home,Tom Odell,Best Day of My Life,2txHhyCwHjUEpJjWrEyqyX,60,182028,False,0.616,0.273,5,-12.47,1,0.0307,0.96,0.00105,0.165,0.314,128.04,4
+397,5sFDReWLrZHLFZFjHsjUTS,Would? (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),64tNsm6TnZe2zpcMVMOoHL,76,206773,False,0.305,0.833,6,-7.981,1,0.0398,0.000327,2.36e-05,0.091,0.586,100.675,4
+398,6gZVQvQZOFpzIy3HblJ20F,Man in the Box,Alice In Chains,Facelift,64tNsm6TnZe2zpcMVMOoHL,76,285200,True,0.355,0.791,8,-7.565,1,0.0453,0.00045,0,0.0969,0.758,106.392,4
+399,2JuasWPUodaUxf5nwNpciQ,Nutshell,Alice In Chains,Jar Of Flies,64tNsm6TnZe2zpcMVMOoHL,74,259200,False,0.384,0.561,3,-10.059,0,0.0296,0.373,0.253,0.0775,0.159,136.136,3
+400,0wvIGFIgbyz4JNwQhZgTv2,Rooster (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),64tNsm6TnZe2zpcMVMOoHL,72,374333,False,0.271,0.551,3,-8.46,1,0.0272,0.0307,0.000581,0.118,0.2,143.899,3
+401,4A065x9kJt955eGVqf813g,Them Bones (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),64tNsm6TnZe2zpcMVMOoHL,72,149466,False,0.159,0.946,9,-5.756,1,0.0629,0.0235,8.06e-06,0.387,0.309,165.014,1
+402,7FRfYOql61DGDp9VPPe2qA,Down In A Hole (2022 Remaster),Alice In Chains,Dirt (2022 Remaster),64tNsm6TnZe2zpcMVMOoHL,66,338226,False,0.357,0.795,6,-5.909,1,0.0337,0.0134,0.00013,0.111,0.416,97.171,4
+403,5Ds35L9KpUDKgSxZ6whuoQ,We Die Young,Alice In Chains,Facelift,64tNsm6TnZe2zpcMVMOoHL,67,152560,False,0.486,0.938,1,-6.652,1,0.0704,1.79e-05,0.000103,0.361,0.525,125.816,4
+404,4PtZE0h5oyPhCtPjg3NeYQ,No Excuses,Alice In Chains,Jar Of Flies,64tNsm6TnZe2zpcMVMOoHL,66,255573,False,0.527,0.838,3,-6.013,1,0.0323,0.0206,0.00062,0.07,0.721,117.454,4
+405,6HnZsLUDrG3HTSbh8sq2u3,I Stay Away,Alice In Chains,Jar Of Flies,64tNsm6TnZe2zpcMVMOoHL,63,254400,False,0.174,0.781,6,-7.066,1,0.0406,0.0452,0.00346,0.0822,0.276,81.37,4
+406,60l2m3BD5VY0HSc3xmSpPI,Bleed The Freak,Alice In Chains,Facelift,64tNsm6TnZe2zpcMVMOoHL,63,242600,False,0.245,0.749,8,-9.352,0,0.0599,0.00252,7.87e-06,0.185,0.221,118.363,4
+407,7xpDGoUGbtaquk5xMvzwTh,Telegrama,Zeca Baleiro,Pet Shop Mundo Cão,7LunbFWIm3RPQpywjOSSd8,63,266080,False,0.643,0.501,11,-7.981,0,0.0424,0.117,0.0463,0.239,0.394,94.514,4
+408,33TV3dRHN8tHU0NdCEv5ab,Ai Que Saudade d'Ocê,Zeca Baleiro,Ai Que Saudade d'Ocê - Single,7LunbFWIm3RPQpywjOSSd8,61,171055,False,0.356,0.482,9,-8.655,1,0.0302,0.66,0.004,0.106,0.158,92.566,4
+409,1cAQhLQAW235Kyy1Lnz3ZR,Lenha,Zeca Baleiro,Vô Imbolá,7LunbFWIm3RPQpywjOSSd8,57,249706,False,0.526,0.673,0,-7.889,1,0.0358,0.33,2.66e-05,0.0937,0.333,81.063,4
+410,5Te6AchmV1n93VD6DUDN3X,Proibida Pra Mim (Grazon),Zeca Baleiro,Líricas,7LunbFWIm3RPQpywjOSSd8,56,195000,False,0.65,0.361,7,-10.614,1,0.0328,0.722,0,0.097,0.54,132.839,4
+411,0fz1d9rPbAuxbqvzUpW31K,"Canta, Canta Minha Gente",Zeca Baleiro,Sambabook: Martinho da Vila,7LunbFWIm3RPQpywjOSSd8,52,188440,False,0.762,0.579,11,-10.026,0,0.249,0.45,0,0.11,0.917,92.098,4
+412,6ZT3MwKnS3u4IvNFT8iz8i,Telegrama (Double MZK Remix),Zeca Baleiro,Telegrama (Double MZK Remix),7LunbFWIm3RPQpywjOSSd8,51,159193,False,0.734,0.814,9,-5.493,1,0.279,0.0124,0.027,0.133,0.471,122.082,4
+413,6Fg78RKrEu82tnesxjD6IJ,Onça Pintada,Zeca Baleiro,"Zoró, Vol. 1 (Bichos Esquisitos)",7LunbFWIm3RPQpywjOSSd8,49,139250,False,0.698,0.839,0,-5.342,1,0.0452,0.265,0,0.317,0.759,90.047,4
+414,0rAgM86NqA0HhlES8hXmaW,Envolvidão,Zeca Baleiro,Arquivo_Raridades,7LunbFWIm3RPQpywjOSSd8,45,281600,False,0.714,0.576,1,-8.201,0,0.0597,0.723,5.03e-06,0.155,0.306,91.974,4
+415,3n4pXmfMwtbBcx4Ua42DOs,Flor Da Pele / Vapor Barato,Zeca Baleiro,Por Onde Andará Stephen Fry,7LunbFWIm3RPQpywjOSSd8,43,200906,False,0.593,0.286,9,-16.069,0,0.0351,0.756,4.16e-05,0.113,0.303,133.07,4
+416,4pPoRiMLWhLtwMaKdu5U5v,Price Tag - Studio Version,Zeca Baleiro,Calma Aí Coração (Ao Vivo),7LunbFWIm3RPQpywjOSSd8,44,217902,False,0.701,0.815,2,-5.157,0,0.0458,0.232,0.0136,0.216,0.826,91.017,4
+417,6X54ZRvwnaKAlOeGwB8qoB,Nao é tik tok,Dj Tj Do Mdp,Nao é tik tok,5apQBIZNBbj63Iw1zU87cz,64,132922,True,0.943,0.737,5,2.187,1,0.296,0.817,2.52e-05,0.417,0.664,130.014,4
+418,7yjOh8HuqLYgVhncqG9Ddq,Vai Rolar uma Fugidinha,Dj Tj Do Mdp,Vai Rolar uma Fugidinha,5apQBIZNBbj63Iw1zU87cz,54,107816,True,0.93,0.397,8,-5.028,0,0.325,0.417,0,0.0608,0.774,133.056,4
+419,1EsRHu2Dt3t2RG5akdTBZG,Vão bora amor,Dj Tj Do Mdp,Vão bora amor,5apQBIZNBbj63Iw1zU87cz,44,147432,True,0.602,0.696,6,-2.293,1,0.284,0.81,0,0.221,0.787,82.717,4
+420,6YbDklmqi8y1zUFvcFYwze,Toma Toma Vs Receba,Dj Tj Do Mdp,Toma Toma Vs Receba,5apQBIZNBbj63Iw1zU87cz,42,118153,True,0.924,0.51,10,-2.238,0,0.347,0.422,6.64e-06,0.0916,0.96,130.048,4
+421,56HV3BF4uvQ0FQSqWlOja5,Ataque do Hexa,Dj Tj Do Mdp,Ataque do Hexa,5apQBIZNBbj63Iw1zU87cz,40,137538,True,0.624,0.787,10,-1.221,0,0.461,0.814,1.06e-05,0.13,0.43,82.674,5
+422,29XnNlOInnQnazBQfcJgkc,Pisca a Xerequinha,Dj Tj Do Mdp,Pisca a Xerequinha,5apQBIZNBbj63Iw1zU87cz,40,147624,True,0.933,0.863,5,-4.387,1,0.399,0.761,0,0.179,0.831,130.071,4
+423,1ypKF9t5bGreF4gaPWhXqa,Eu Te Botei Você Nem Divulgou,Dj Tj Do Mdp,Eu Te Botei Você Nem Divulgou,5apQBIZNBbj63Iw1zU87cz,37,123922,True,0.653,0.862,9,-2.346,1,0.574,0.266,6.34e-06,0.095,0.537,86.473,3
+424,2tco1xI7I6p3WoNXea7y3p,To Doidinho pra Ver Seu Piercing no Peito Pique Bh,Dj Tj Do Mdp,To Doidinho pra Ver Seu Piercing no Peito Pique Bh,5apQBIZNBbj63Iw1zU87cz,37,164927,True,0.66,0.558,5,-3.417,1,0.293,0.662,0,0.0711,0.824,84.329,3
+425,2WiUfu70BwVL0FZUWSjOXQ,"Toma Trenhada, para de Pose",Dj Tj Do Mdp,"Toma Trenhada, para de Pose",5apQBIZNBbj63Iw1zU87cz,36,116307,True,0.744,0.416,7,-7.17,1,0.705,0.197,0.00047,0.0923,0.433,82.501,5
+426,5PYpyBvnIjfxUnoavvKmxS,Isso Aqui É Bh 2.0,Dj Tj Do Mdp,Isso Aqui É Bh 2.0,5apQBIZNBbj63Iw1zU87cz,34,121384,True,0.664,0.669,4,-3.131,0,0.393,0.183,0,0.244,0.803,83.228,3
+427,7fZBQnc0zXwVybgCIrQQil,Belly Dancer,Imanbek,Belly Dancer,5rGrDvrLOV2VV8SCFVGWlj,85,151475,False,0.845,0.797,1,-4.984,1,0.139,0.0582,5.57e-06,0.167,0.422,121.985,4
+428,24Yi9hE78yPEbZ4kxyoXAI,Roses - Imanbek Remix,Imanbek,Roses (Imanbek Remix),5rGrDvrLOV2VV8SCFVGWlj,81,176840,True,0.77,0.724,8,-5.484,1,0.0495,0.0167,0.0107,0.353,0.898,121.975,4
+429,4uDhts78RdwIDjEqPrYVKp,Sweet Dreams,Imanbek,Sweet Dreams,5rGrDvrLOV2VV8SCFVGWlj,74,138819,False,0.766,0.817,7,-4.253,1,0.035,0.0239,2.49e-06,0.159,0.43,125.033,4
+430,4crczEC1PpoD8TsDsmoWNI,Goodbye,Imanbek,Goodbye,5rGrDvrLOV2VV8SCFVGWlj,70,144000,False,0.741,0.931,10,-3.447,0,0.0563,0.0225,0.000102,0.191,0.517,125.011,4
+431,0zg8u9UUlvwSvBJYEjhgDT,Love Again - Imanbek Remix,Imanbek,Love Again (Imanbek Remix),5rGrDvrLOV2VV8SCFVGWlj,68,214000,False,0.717,0.91,6,-3.39,0,0.0554,0.00262,0.00194,0.0589,0.682,119.999,4
+432,61eO1GpmNJ7iUVoQZ5JfNO,Belly Dancer - LUM!X Remix,Imanbek,Belly Dancer (LUM!X Remix),5rGrDvrLOV2VV8SCFVGWlj,67,134285,False,0.734,0.839,1,-5.655,1,0.0856,0.0349,0.000137,0.248,0.553,126.019,4
+433,0lipGKQoFraacrrBb3Qyg4,Dancing On Dangerous,Imanbek,Dancing On Dangerous,5rGrDvrLOV2VV8SCFVGWlj,54,123428,False,0.656,0.861,1,-2.695,0,0.0523,0.208,2.84e-06,0.119,0.695,105.057,4
+434,6OboXrS1zbfCmh7uDFCIQ5,The Best Part of Life (Imanbek Remix),Imanbek,The Best Part of Life (Imanbek Remix),5rGrDvrLOV2VV8SCFVGWlj,65,198979,False,0.759,0.9,1,-1.999,0,0.0419,0.00571,5.13e-05,0.294,0.389,127.999,4
+435,6oJIAZpChGNIEMAecud9SZ,Ocean Of Tears,Imanbek,Ocean Of Tears,5rGrDvrLOV2VV8SCFVGWlj,62,184462,False,0.726,0.823,2,-6.789,1,0.0571,0.111,0.00193,0.0813,0.151,120.99,4
+436,78oZ26xvmtCfarveRXs3dq,Big (feat. Gunna),Imanbek,Big (feat. Gunna),5rGrDvrLOV2VV8SCFVGWlj,58,156781,False,0.779,0.845,7,-3.446,1,0.0356,0.0659,1.16e-06,0.0641,0.615,111.995,4
+437,4wbE3P0UfKNE8elrtoCEs5,Meu Plano Falhou - Ao Vivo,Akatu,"Degrauzinho por Degrauzinho, Vol. 1 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,53,166054,False,0.571,0.755,2,-6.099,1,0.0335,0.608,0,0.664,0.836,144.056,4
+438,5IqtiR998LyLWCYuWpFstj,Complicado - Ao Vivo,Akatu,"Encontro de Gerações, Vol. 03 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,59,163200,False,0.613,0.493,5,-9.445,1,0.038,0.536,0,0.384,0.623,143.849,4
+439,5dKzCAZSQtLUoWcOeU3C0U,Só por um Momento - Ao Vivo,Akatu,"Encontro de Gerações, Vol. 03 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,54,123330,False,0.578,0.603,2,-8.431,1,0.0344,0.641,0,0.346,0.705,151.864,4
+440,1xz4XGv868XNm160uS0Xs0,Tempo de Aprender,Akatu,Encontro de Gerações,1AuDtbIuaPj9LHnOUMT3C8,52,144490,False,0.557,0.608,2,-7.662,1,0.0634,0.542,0,0.581,0.798,156.347,4
+441,5MettHBHQSiJuOcepOxQZz,Pra Ver o Sol Brilhar - Ao Vivo,Akatu,"Encontro de Gerações, Vol. 03 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,52,124347,False,0.571,0.645,5,-9.059,1,0.03,0.59,0,0.1,0.822,152.001,4
+442,69z9CJ10MAk9ZkwIyP2oBU,Reinventar / Ligando os Fatos - Ao Vivo,Akatu,#Vamo Cantar (Ao Vivo),1AuDtbIuaPj9LHnOUMT3C8,51,254470,False,0.654,0.622,4,-8.398,1,0.0409,0.54,0,0.654,0.884,155.852,4
+443,2sVzPz4oSaSF12k6q7RVq0,Tira Ela de Mim,Akatu,Luau do Akatu,1AuDtbIuaPj9LHnOUMT3C8,50,115516,False,0.629,0.67,0,-8.046,0,0.0345,0.421,1.48e-05,0.0996,0.783,160.009,4
+444,5spcZfUkcJdjAsDWrpSjx9,Ladrão - Ao Vivo,Akatu,"Degrauzinho por Degrauzinho, Vol. 1 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,45,170240,False,0.622,0.808,11,-6.872,1,0.0359,0.492,0,0.87,0.938,143.992,4
+445,0P8Xb51X7XnGpJ1f52fh9S,Tá Escrito - Ao Vivo,Akatu,"Encontro de Gerações, Vol. 01 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,49,263586,False,0.598,0.744,5,-7.458,1,0.139,0.414,0,0.0543,0.863,116.894,4
+446,6Wh3yMeun9Utz5foDHwn2H,Ela É Quem Escolhe - Ao Vivo,Akatu,"Degrauzinho por Degrauzinho, Vol. 1 (Ao Vivo)",1AuDtbIuaPj9LHnOUMT3C8,46,155168,False,0.601,0.848,2,-6.469,1,0.0418,0.591,0,0.945,0.887,88.057,4
+447,7oThMsx0DBtNoXLKk79Z5M,Rolling Ocean Waves,Medicina Relaxante,Soothing Waves of Ocean and Sea for Background Sounds and Natural White Noise,5J4IHTlL6fhRkqY6MFSAGg,22,96872,False,0.155,0.928,2,-16.096,1,0.0459,0.806,0.986,0.178,1e-05,80.848,3
+448,3SIjSnYtZvAZNkyR6jY88K,Ruido Branco Bebe,Medicina Relaxante,Ruido Branco Bebe,5J4IHTlL6fhRkqY6MFSAGg,64,142305,False,0,1.95e-05,0,-9.879,1,0,0,0,0,0,0,0
+449,1OYSuSSUL5wqouiQPZ4jHQ,The Gentlest Thunderstorm,Medicina Relaxante,Gentle Rain Showers and Angry Rolling Thunderstorms,5J4IHTlL6fhRkqY6MFSAGg,19,89230,False,0.139,0.653,2,-23.888,1,0.0606,0.769,0.992,0.175,0.0148,87.768,4
+450,1cB4yxa56nSIhRxwm38lzK,Good Vibe,Medicina Relaxante,Sleepy Time,5J4IHTlL6fhRkqY6MFSAGg,9,168017,False,0.496,0.043,10,-34.447,0,0.0445,0.951,0.902,0.164,0.213,79.915,1
+451,3vgAXbaMZCPucet53NnSI9,The Rain Dances on a Tin Roof,Medicina Relaxante,Gentle Rain Showers and Angry Rolling Thunderstorms,5J4IHTlL6fhRkqY6MFSAGg,18,71107,False,0.304,0.999,6,-22.224,0,0.101,0.443,0.908,0.979,1e-05,115.315,1
+452,3y2VA8Owb6FxZ32qW7pSpZ,Country Morning,Medicina Relaxante,New-Aged,5J4IHTlL6fhRkqY6MFSAGg,8,384017,False,0.187,0.0201,9,-30.514,0,0.0369,0.918,0.943,0.0917,0.0342,83.781,4
+453,2hM3efZZ0vGILFQXpXtVaK,Hair Dryer [Non-Stationary],Medicina Relaxante,Hair Dryer Salon for Background Sounds and White Noise,5J4IHTlL6fhRkqY6MFSAGg,9,67112,False,0.205,0.947,6,-9.785,0,0.0696,0.936,0.994,0.957,0.0135,133.812,5
+454,3VJYHltilJcHHVUImKQQc0,The Rain Falls on the Tree,Medicina Relaxante,Gentle Rain Showers and Angry Rolling Thunderstorms,5J4IHTlL6fhRkqY6MFSAGg,10,78125,False,0.187,0.989,7,-24.02,1,0.0426,0.826,0.995,0.977,0.0161,75.72,4
+455,57uCJEjW4TmrUSpPFKy8tj,Calm Universe,Medicina Relaxante,Calm Relaxing Music,5J4IHTlL6fhRkqY6MFSAGg,8,203075,False,0.183,0.0312,9,-28.087,0,0.0418,0.848,0.829,0.0824,0.0494,117.838,3
+456,27JaxKCHc4gpaSSjzc5qOE,Sublime Space,Medicina Relaxante,Sleepy Time,5J4IHTlL6fhRkqY6MFSAGg,5,385732,False,0.164,0.0493,2,-29.41,0,0.0422,0.0881,0.835,0.111,0.0462,94.974,4
+457,7bSlafYF33JHLoB9NtsL9V,Look At Us Now (Honeycomb),Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,75,332386,False,0.323,0.761,7,-6.143,1,0.0479,0.00942,0.000586,0.0827,0.466,141.282,4
+458,6Mhgvrv4zd82FrCeuASW44,Let Me Down Easy,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,73,204215,False,0.62,0.904,9,-4.221,0,0.208,0.00257,5.77e-06,0.184,0.732,136.936,4
+459,0xPgZjm0ZV4JN6uKLDAH6O,The River,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,72,294740,False,0.436,0.944,9,-2.662,0,0.0612,0.00751,0.000888,0.0811,0.763,145.081,4
+460,3l5qEpePfGDv6ZFYWRNNtq,Regret Me,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,69,196085,False,0.489,0.876,7,-3.598,1,0.0437,0.00588,9.07e-05,0.34,0.761,122.938,4
+461,20AShtCDWSiJw1jyGLxCYM,Aurora,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,68,205275,False,0.584,0.86,10,-4.65,1,0.0649,0.00254,0.0529,0.409,0.926,150.563,4
+462,29TAc4GX2PqH3EIr0GvoHE,Kill You To Try,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,67,312159,False,0.53,0.726,5,-5.637,1,0.0495,0.00857,0,0.182,0.73,145.081,4
+463,6KOqANFCCAKfCGJvHFz5Tw,More Fun To Miss,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,66,172062,False,0.53,0.645,6,-4.381,0,0.0409,0.123,0,0.192,0.574,118.809,4
+464,40SQcnUa05M7AdEFyBtUKs,Two Against Three,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,64,232848,False,0.632,0.256,7,-8.777,1,0.0275,0.616,2.29e-05,0.0897,0.325,86.991,4
+465,1T0Xh7sj5UtN4bvsYHuEsv,You Were Gone,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,63,256269,False,0.695,0.731,10,-3.778,1,0.0325,0.253,0.000353,0.108,0.785,120.123,4
+466,3gWBxxWR8LIprvhe2GVHmk,Please,Daisy Jones & The Six,AURORA,0ZUdYzRCIrxbsd80MmGMqo,62,204954,False,0.337,0.731,8,-3.711,1,0.0351,0.0753,0,0.253,0.306,69.058,4
+467,6jTSR9GYY8zPeRNWuMBtB7,Memento Mori,LetoDie,Memento Mori,2JFpfD9p2vTjRCH8XLeO0l,51,216172,True,0.646,0.598,1,-9.335,1,0.0884,0.412,0.00128,0.339,0.676,87.082,4
+468,7sMdcuvOjtsXUYNWOmTSDI,Apenas 28,LetoDie,Apenas 28,2JFpfD9p2vTjRCH8XLeO0l,46,249373,True,0.592,0.291,0,-11.434,1,0.423,0.0876,0.000335,0.162,0.376,82.93,4
+469,7JjBJZpD7p5KEeSeNqxvPX,Cidade das Sombras,LetoDie,Cidade das Sombras,2JFpfD9p2vTjRCH8XLeO0l,46,225116,False,0.711,0.54,6,-8.034,0,0.0886,0.0685,0.319,0.119,0.689,77.948,4
+470,7cml4tLRIShHkyrV7dB7wT,Nascido para o Combate,LetoDie,Si Vis Pacem Para Bellum,2JFpfD9p2vTjRCH8XLeO0l,46,194007,True,0.765,0.414,1,-9.715,1,0.234,0.221,0.039,0.132,0.0839,160.038,4
+471,3wafWPiFU2WDf4V8DNHWM6,Antissocial,LetoDie,Antissocial,2JFpfD9p2vTjRCH8XLeO0l,45,227433,True,0.586,0.766,0,-7.155,1,0.135,0.175,9.94e-05,0.0964,0.364,115.358,5
+472,717HLqK3zONblwJgU4IU5l,Humanos,LetoDie,Humanos,2JFpfD9p2vTjRCH8XLeO0l,44,248741,True,0.698,0.497,8,-11.474,0,0.28,0.187,0.00116,0.11,0.42,186.006,3
+473,6FEHkv9F9X57C0U4dPAV5w,Made in Chernobyl3,LetoDie,Leto Die,2JFpfD9p2vTjRCH8XLeO0l,44,282044,False,0.687,0.878,1,-5.275,1,0.286,0.128,0,0.0907,0.527,146.08,4
+474,2klyUerFH9BkXyoF99VI03,Morior Invictus,LetoDie,Morior Invictus,2JFpfD9p2vTjRCH8XLeO0l,43,182767,True,0.824,0.731,11,-10.942,1,0.446,0.114,4.04e-05,0.0907,0.557,169.994,3
+475,2mzctyCwTS7CKXC3RP4QXf,Forja,LetoDie,Forja,2JFpfD9p2vTjRCH8XLeO0l,43,178562,False,0.735,0.495,10,-7.743,0,0.412,0.177,7.18e-06,0.0931,0.709,173.978,4
+476,5d4YKyYXh3O04zflsFiqI0,Guerra,LetoDie,Guerra,2JFpfD9p2vTjRCH8XLeO0l,43,235006,True,0.533,0.627,4,-7.804,0,0.186,0.414,0.000331,0.109,0.59,88.959,4
+477,4IavDOfEOKg8zzdfCx9TmJ,NA ONDA,AJ Wav,MUITA ONDA,7zVUKHKN1NSVZx7LMsG3B8,55,150508,True,0.661,0.588,10,-6.666,0,0.0389,0.414,1.2e-05,0.199,0.424,117.939,4
+478,57cJaSPZPjXDj9YfcalUpv,TUDO VAI FLUIR,AJ Wav,MUITA ONDA,7zVUKHKN1NSVZx7LMsG3B8,51,126857,True,0.481,0.656,3,-5.287,0,0.0897,0.189,0,0.121,0.489,139.684,4
+479,4pjKj7PqgSA2A71TLTHj5p,Não Se Faz de Surdo,AJ Wav,Não Se Faz de Surdo,7zVUKHKN1NSVZx7LMsG3B8,45,180512,True,0.56,0.616,9,-7.053,0,0.0355,0.139,0,0.213,0.35,116.944,4
+480,15rvuKTXwIIdrCNJn2MDKJ,ME DEIXA LEVE,AJ Wav,MUITA ONDA,7zVUKHKN1NSVZx7LMsG3B8,43,188307,True,0.703,0.588,7,-5.51,1,0.0701,0.0106,2.69e-06,0.129,0.522,130.044,4
+481,2Xhp6saEeIIIEqtt9rLFFM,Pinote,AJ Wav,Pinote,7zVUKHKN1NSVZx7LMsG3B8,37,134608,True,0.725,0.659,8,-4.992,0,0.0399,0.157,6.22e-06,0.111,0.66,115.023,4
+482,3CZ1yKCXWvZ08SQd4n08hs,Fica Tudo Bem,AJ Wav,Fica Tudo Bem,7zVUKHKN1NSVZx7LMsG3B8,36,168960,True,0.8,0.561,8,-7.02,1,0.0579,0.0331,0.000133,0.146,0.335,124.99,4
+483,3m0w4k2LRBouHn76YSU79a,Cigano,AJ Wav,Cigano,7zVUKHKN1NSVZx7LMsG3B8,19,137150,False,0.662,0.7,8,-7.606,0,0.0499,0.554,0.000187,0.094,0.702,96.012,3
+484,7eYpbnmG629oNntEr1KKMw,Yes Sir,AJ Wav,Yes Sir,7zVUKHKN1NSVZx7LMsG3B8,9,141000,True,0.777,0.442,5,-8.983,0,0.0404,0.0815,0,0.14,0.221,119.913,4
+485,0NedLRLrBLDYDRkcdJ7YuR,Seu Plug,AJ Wav,Seu Plug,7zVUKHKN1NSVZx7LMsG3B8,6,188769,True,0.808,0.562,1,-7.682,1,0.482,0.0656,0,0.0945,0.346,129.311,4
+486,33IaFHZLwF8iI8kcpaRIvj,Travis Scott,AJ Wav,Travis Scott,7zVUKHKN1NSVZx7LMsG3B8,5,149538,True,0.763,0.633,2,-6.69,1,0.154,0.218,2.71e-06,0.105,0.624,86.702,5
