@@ -85,7 +85,7 @@ i = 0
 for x in range(0,50):
     i = i + 1
     print(i)
-    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='BR', offset=x+317)
+    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='BR', offset=x+817)
     print('Query done \n')
     for y, a in enumerate(artist_search['artists']['items']):
         artistName = a['name']
@@ -106,4 +106,4 @@ df = df.transpose()
 
 print(df.shape)
 
-df.to_csv('BR Data/spotify23-BR-9.csv', encoding='utf-8')
+df.to_csv('BR Data/spotify23-BR-19.csv', encoding='utf-8')
