@@ -27,7 +27,7 @@ def getArtistGenres(varArtistID):
     var_artist_genres = artist_data['genres']
     appendData(artist_genres, var_artist_genres)
 
-with open('User Data/top20userMateus.txt', 'r', encoding='utf8') as file:
+with open('User Data/top20userCatarine.txt', 'r', encoding='utf8') as file:
     # Read the contents of the file
     file_contents = file.read()
 
@@ -52,5 +52,5 @@ df = df.transpose()
 
 print(df.shape)
 
-df.to_csv('User Data/userdataMateus.csv', encoding='utf-8')
+df.to_csv('User Data/userdataCatarine.csv', encoding='utf-8')
 
