@@ -1,21 +1,21 @@
-,track_id,track_name,artist_name,artist_genres
-0,1UAZPeZdpFFYa8wanZCj1H,Not Too Far,GAWVI,"['christian hip hop', 'miami hip hop', 'rap cristiano']"
-1,0U1W2LZVUX7qTm7dDpqxh6,When You're Gone,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']"
-2,4HBaBg9EzXkTspFJ3y3uE0,"It's Only Love, Nobody Dies",Sofia Carson,['pop']
-3,1jEBSDN5vYViJQr78W7jr2,Light Switch,Charlie Puth,"['pop', 'viral pop']"
-4,314qkgrXj2WvQhkxwawdP1,No sense,JONY,"['russian dance', 'russian pop']"
-5,2fA59k8ClQZ5yATdFrMOjU,Hold On,GAWVI,"['christian hip hop', 'miami hip hop', 'rap cristiano']"
-6,35o9a4iAfLl5jRmqMX9c1D,Shape of My Heart,Backstreet Boys,"['boy band', 'dance pop', 'pop']"
-7,6BmUtzlBl464D2Wd2sxOex,You & Me,William Matthews,['deep ccm']
-8,4a6gCiN3y65Dg1U3aTkFNW,Just Jesus,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']"
-9,6AowVmxZ6G2zikw5MeqfOG,Need Your Love - Live,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']"
-10,6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,"['canadian pop', 'pop']"
-11,3lBoISh2FvtpdQt1lsU9nN,Spotless,Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']"
-12,6FYjFJCPnWDkKu7Fx6W0cv,Heaven,Local Sound,"['ccm', 'cedm', 'christian pop', 'worship']"
-13,6tfKMRu3hUKKNSjsR3M6uk,Nothing but You (feat. Davies),Tauren Wells,"['ccm', 'christian alternative rock', 'christian music']"
-14,4cWGfQ3diL4l1RU86yXx9i,P E A C E,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']"
-15,7CrNR28FlTNNOlPTDo14XO,Eu Vou Viver,DJ PV,"['adoracao', 'brazilian gospel', 'musica eletronica gospel']"
-16,6qmvAJSUfVGMubvI2awW7p,uh oh,Tate McRae,"['alt z', 'pop']"
-17,2aI21FnmY7TJVKeMaoQZ0t,Say It Right,Nelly Furtado,"['canadian latin', 'canadian pop', 'dance pop', 'pop']"
-18,5zviMoAeuerK1Rd58qXASv,All That Really Matters,ILLENIUM,"['edm', 'melodic dubstep', 'pop dance']"
-19,3NLnwwAQbbFKcEcV8hDItk,Perfect,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']"
+,track_id,track_name,artist_name,artist_genres,album_name,artist_id,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,album_img
+0,1UAZPeZdpFFYa8wanZCj1H,Not Too Far,GAWVI,"['christian hip hop', 'miami hip hop', 'rap cristiano']",HEATHEN,0oPd8f0W82Tgrazx2PYNab,51,181598,False,0.594,0.741,8,-6.033,1,0.0585,0.183,0,0.184,0.278,150.033,4,https://i.scdn.co/image/ab67616d00001e02db968ea3312e2417945afd6f
+1,0U1W2LZVUX7qTm7dDpqxh6,When You're Gone,Shawn Mendes,"['canadian pop', 'pop', 'viral pop']",When You're Gone,7n2wHs1TKAczGzO7Dd2rGr,80,172266,False,0.603,0.691,5,-5.805,1,0.0372,0.0248,0,0.583,0.577,147.148,4,https://i.scdn.co/image/ab67616d00001e02dad0775943c1a826bfed3117
+2,4HBaBg9EzXkTspFJ3y3uE0,"It's Only Love, Nobody Dies",Sofia Carson,['pop'],Sofia Carson,7bp2lSdh12wcA8LyB1srfJ,50,184445,False,0.558,0.705,1,-7.992,1,0.0412,0.488,0.000112,0.114,0.314,101.015,4,https://i.scdn.co/image/ab67616d00001e02fc59f417792c2d99379abe87
+3,1jEBSDN5vYViJQr78W7jr2,Light Switch,Charlie Puth,"['pop', 'viral pop']",CHARLIE,6VuMaDnrHyPL1p4EHjYLi7,82,187703,False,0.689,0.627,6,-5.692,1,0.308,0.105,0.000321,0.0905,0.905,184.008,4,https://i.scdn.co/image/ab67616d00001e0235d2e0ed94a934f2cc46fa49
+4,314qkgrXj2WvQhkxwawdP1,No sense,JONY,"['russian dance', 'russian pop']",Не ищите во мне жанры,2ISiyx4DLCMAMBCvPesCoq,46,209846,False,0.759,0.628,10,-5.289,0,0.129,0.189,0.00197,0.0995,0.24,98.009,4,https://i.scdn.co/image/ab67616d00001e02b5f9bf981578d225517eb292
+5,2fA59k8ClQZ5yATdFrMOjU,Hold On,GAWVI,"['christian hip hop', 'miami hip hop', 'rap cristiano']",We Belong,0oPd8f0W82Tgrazx2PYNab,26,369715,False,0.532,0.654,10,-8.524,0,0.0311,0.0947,0.223,0.338,0.0672,133.957,4,https://i.scdn.co/image/ab67616d00001e02250bec016e65a9d4bff187ef
+6,35o9a4iAfLl5jRmqMX9c1D,Shape of My Heart,Backstreet Boys,"['boy band', 'dance pop', 'pop']",Black & Blue,5rSXSAkZ67PYJSvpUpkOr7,75,230093,False,0.575,0.786,9,-4.353,1,0.0296,0.252,0,0.159,0.518,96.102,4,https://i.scdn.co/image/ab67616d00001e02cf871e6326e334bfa92cff20
+7,6BmUtzlBl464D2Wd2sxOex,You & Me,William Matthews,['deep ccm'],KOSMOS,6xzvt1VigDuN3Qt39YozYA,19,224398,False,0.61,0.48,5,-8.401,0,0.041,0.0211,0.00247,0.111,0.172,130.056,4,https://i.scdn.co/image/ab67616d00001e0280a01137970d34790bb1708a
+8,4a6gCiN3y65Dg1U3aTkFNW,Just Jesus,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']",III,7m4gF38CPATtHrk5HS42WZ,43,215066,False,0.679,0.757,10,-7.668,0,0.0556,0.0255,0.355,0.312,0.611,110.015,4,https://i.scdn.co/image/ab67616d00001e02d995274dfda2181a7916714f
+9,6AowVmxZ6G2zikw5MeqfOG,Need Your Love - Live,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']",All Of My Best Friends,7m4gF38CPATtHrk5HS42WZ,44,209920,False,0.571,0.853,9,-6.589,0,0.0465,0.00643,1.32e-06,0.684,0.376,126.016,4,https://i.scdn.co/image/ab67616d00001e020ef8955d5710b73e61184e65
+10,6I3mqTwhRpn34SLVafSH7G,Ghost,Justin Bieber,"['canadian pop', 'pop']",Justice,1uNFoZAHBGtllmzznpCI3s,89,153190,False,0.601,0.741,2,-5.569,1,0.0478,0.185,2.91e-05,0.415,0.441,153.96,4,https://i.scdn.co/image/ab67616d00001e02e6f407c7f3a0ec98845e4431
+11,3lBoISh2FvtpdQt1lsU9nN,Spotless,Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Spotless,60d24wfXkVzDSfLS6hyCjZ,47,195004,False,0.517,0.828,8,-5.648,0,0.0482,9.69e-05,0.841,0.411,0.0605,128.077,4,https://i.scdn.co/image/ab67616d00001e0262795e3a4eeda1f73595b67b
+12,6FYjFJCPnWDkKu7Fx6W0cv,Heaven,Local Sound,"['ccm', 'cedm', 'christian pop', 'worship']",Heaven,2cXyPSMdJcGw3t9yNhwTN2,36,226866,False,0.733,0.614,7,-8.448,0,0.0576,0.153,0.178,0.341,0.314,99.012,4,https://i.scdn.co/image/ab67616d00001e0255eaa52109e569c491dbbe6a
+13,6tfKMRu3hUKKNSjsR3M6uk,Nothing but You (feat. Davies),Tauren Wells,"['ccm', 'christian alternative rock', 'christian music']",Hills and Valleys (Deluxe Edition),3SKza3YPBri1k43LB1Tqy4,31,276745,False,0.634,0.739,7,-7.101,0,0.0603,0.177,0,0.123,0.2,119.929,4,https://i.scdn.co/image/ab67616d00001e0228ed55c2121ced182ed8011d
+14,4cWGfQ3diL4l1RU86yXx9i,P E A C E,Hillsong Young & Free,"['ccm', 'christian music', 'world worship', 'worship']",P E A C E,7m4gF38CPATtHrk5HS42WZ,28,240000,False,0.45,0.362,11,-11.899,0,0.0278,0.55,0.00334,0.0971,0.136,128.032,3,https://i.scdn.co/image/ab67616d00001e023b8b140a3f2c59243e7b75f7
+15,7CrNR28FlTNNOlPTDo14XO,Eu Vou Viver,DJ PV,"['adoracao', 'brazilian gospel', 'musica eletronica gospel']",Eu Vou Viver,6jdJKaM0mCqZzbUgeO5e0j,32,196747,False,0.524,0.699,0,-4.672,1,0.0994,0.304,1.27e-06,0.107,0.611,95.093,4,https://i.scdn.co/image/ab67616d00001e024f01e7e28ae4a67df978a338
+16,6qmvAJSUfVGMubvI2awW7p,uh oh,Tate McRae,"['alt z', 'pop']",uh oh,45dkTj5sMRSjrmBSBeiHym,72,169721,True,0.625,0.604,10,-7.415,0,0.339,0.257,2.06e-05,0.129,0.372,174.089,4,https://i.scdn.co/image/ab67616d00001e023d0cdc5c7c52338a5a92cec9
+17,2aI21FnmY7TJVKeMaoQZ0t,Say It Right,Nelly Furtado,"['canadian latin', 'canadian pop', 'dance pop', 'pop']",Loose,2jw70GZXlAI8QzWeY2bgRc,83,223080,False,0.872,0.872,1,-6.328,1,0.139,0.0476,0.00112,0.0543,0.809,116.948,4,https://i.scdn.co/image/ab67616d00001e02a6f439c8957170652f9410e2
+18,5zviMoAeuerK1Rd58qXASv,All That Really Matters,ILLENIUM,"['edm', 'melodic dubstep', 'pop dance']",All That Really Matters,45eNHdiiabvmbp4erw26rg,66,244235,False,0.352,0.666,1,-4.909,1,0.0512,0.117,1.81e-06,0.0934,0.227,169.965,4,https://i.scdn.co/image/ab67616d00001e02307d185de661d5ac417f02bb
+19,3NLnwwAQbbFKcEcV8hDItk,Perfect,One Direction,"['boy band', 'pop', 'post-teen pop', 'talent show']",Made In The A.M. (Deluxe Edition),4AK6F7OLvEQ5QYCBNiQWHq,82,230333,False,0.647,0.823,2,-5.231,1,0.0762,0.0598,0,0.119,0.396,99.933,4,https://i.scdn.co/image/ab67616d00001e02241e4fe75732c9c4b49b94c3

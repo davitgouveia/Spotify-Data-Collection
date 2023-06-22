@@ -1,21 +1,21 @@
-,track_id,track_name,artist_name,artist_genres
-0,0JSux25Te5HYMSr2D64d02,Levanta e Anda,Emicida,"['afrofuturismo brasileiro', 'brazilian hip hop', 'funk ostentacao', 'hip hop tuga', 'manguebeat', 'pop lgbtq+ brasileira']"
-1,28M9CSVpZ8x526MKvb1U2W,"Foco, Força E Fé",Projota,"['brazilian hip hop', 'funk carioca', 'pop nacional', 'sertanejo universitario']"
-2,4S3zWMCOGI5k61u78QTGWR,Sorrisos (feat. Lourena),L7NNON,"['funk rj', 'pop rap brasileiro', 'trap brasileiro']"
-3,3QLk7GwoJ1k08idUqahbBl,Acredita,MC Paulin da Capital,"['funk consciente', 'funk paulista']"
-4,63400Pm7x5Awe4NH82oRYe,War,Filipe Ret,['pop rap brasileiro']
-5,2CnjdM7i26Y1kvN3lyuDOl,NINGUÉM ME ENSINOU,Lagum,"['belo horizonte indie', 'nova mpb']"
-6,5KmOxMa35XqgqM3xmboDG5,Positividade,Gaab,"['funk carioca', 'r&b brasileiro']"
-7,1Krz7LzUsMOr3kplkyVQAY,Milionários,MC Hariel,"['funk carioca', 'funk consciente', 'funk paulista']"
-8,2LTlykcdu0gwb7zcKneo2a,Melhor Só,KayBlack,"['trap brasileiro', 'trap funk']"
-9,2OD75xL8ZnJo5mOcB6N2nz,Imbatível,Mc Lele JP,['funk paulista']
-10,2J2Z1SkXYghSajLibnQHOa,Unstoppable,Sia,"['australian dance', 'australian pop', 'pop']"
-11,7HjZD0NPC1hzFpjUjo45GR,Me Sinto Abençoado,Mc Poze do Rodo,['funk carioca']
-12,0pqnGHJpmpxLKifKRmU6WP,Believer,Imagine Dragons,"['modern rock', 'pop', 'rock']"
-13,1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,['pop']
-14,0rOQyLZJ9oASgtdoDZgrmK,Tá Escrito,Grupo Revelação,"['pagode', 'pagode novo']"
-15,7xHWNBFm6ObGEQPaUxHuKO,The Greatest (feat. Kendrick Lamar),Sia,"['australian dance', 'australian pop', 'pop']"
-16,5TtTijiNYtFc6ktQARjY30,Preferida,KayBlack,"['trap brasileiro', 'trap funk']"
-17,1JzMOnuyabzpRuSudDD4Cq,Brinca Demais,WIU,['trap brasileiro']
-18,4M7bbRsVNB8iWQaX8Sbfln,That's My Way,Edi Rock,"['brazilian hip hop', 'brazilian reggae']"
-19,27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,['lgbtq+ hip hop']
+,track_id,track_name,artist_name,artist_genres,album_name,artist_id,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,album_img
+0,0JSux25Te5HYMSr2D64d02,Levanta e Anda,Emicida,"['afrofuturismo brasileiro', 'brazilian hip hop', 'funk ostentacao', 'hip hop tuga', 'manguebeat', 'pop lgbtq+ brasileira']",O Glorioso Retorno de Quem Nunca Esteve Aqui,2d9LRvQJnAXRijqIJDDs2K,57,150439,False,0.488,0.931,9,-4.185,1,0.327,0.0907,0,0.446,0.823,87.33,4,https://i.scdn.co/image/ab67616d00001e02fbd2467fe87c1bb4891cbed2
+1,28M9CSVpZ8x526MKvb1U2W,"Foco, Força E Fé",Projota,"['brazilian hip hop', 'funk carioca', 'pop nacional', 'sertanejo universitario']","Foco, Força E Fé",2zGf6lwQ9PxXdoeo5XXP2K,47,224546,False,0.581,0.968,6,-4.293,0,0.298,0.0891,0,0.231,0.715,176.021,4,https://i.scdn.co/image/ab67616d00001e026f875010716322178f1aad91
+2,4S3zWMCOGI5k61u78QTGWR,Sorrisos (feat. Lourena),L7NNON,"['funk rj', 'pop rap brasileiro', 'trap brasileiro']",Podium,0JjPiLQNgAFaEkwoy56B1C,61,240000,False,0.828,0.63,0,-8.195,1,0.0479,0.145,1.03e-05,0.0965,0.481,132.009,4,https://i.scdn.co/image/ab67616d00001e0260f76380f2cd1d5ebbbc01a4
+3,3QLk7GwoJ1k08idUqahbBl,Acredita,MC Paulin da Capital,"['funk consciente', 'funk paulista']",Acredita,592JnViQ2tot63c1SbtgK2,60,245394,False,0.657,0.715,4,-1.523,0,0.0457,0.273,0,0.114,0.429,89.983,4,https://i.scdn.co/image/ab67616d00001e02913c200954c1756902c68de9
+4,63400Pm7x5Awe4NH82oRYe,War,Filipe Ret,['pop rap brasileiro'],Imaterial,7gJN8W0589FisSYJS17K54,69,152582,True,0.573,0.633,6,-6.327,0,0.0586,0.202,0,0.128,0.309,150.85,4,https://i.scdn.co/image/ab67616d00001e029b65a1cb687aeec86f3edfcb
+5,2CnjdM7i26Y1kvN3lyuDOl,NINGUÉM ME ENSINOU,Lagum,"['belo horizonte indie', 'nova mpb']",NINGUÉM ME ENSINOU,5D56dZmhE9DgT01XixdHiD,58,157705,False,0.684,0.644,7,-7.69,1,0.0509,0.0221,1.8e-05,0.0664,0.309,127.866,4,https://i.scdn.co/image/ab67616d00001e0222f71e5db9bff577622a9f61
+6,5KmOxMa35XqgqM3xmboDG5,Positividade,Gaab,"['funk carioca', 'r&b brasileiro']",Melhor Viagem,2iK1rsbYstkSVn57M4s8ut,44,204730,True,0.697,0.375,4,-16.481,1,0.336,0.542,0,0.0838,0.232,94.969,4,https://i.scdn.co/image/ab67616d00001e023a71f0992498543d0b1cf0ad
+7,1Krz7LzUsMOr3kplkyVQAY,Milionários,MC Hariel,"['funk carioca', 'funk consciente', 'funk paulista']",Milionários,0pcoadNMmvrUyab1RxWBoV,52,129507,False,0.837,0.682,1,-5.21,0,0.0774,0.745,0.000343,0.201,0.76,129.892,4,https://i.scdn.co/image/ab67616d00001e02f71629db8dc53003cf68ef62
+8,2LTlykcdu0gwb7zcKneo2a,Melhor Só,KayBlack,"['trap brasileiro', 'trap funk']",Melhor Só,2h5Ha0ZiMFmOQD3iYcSXsy,85,229326,False,0.605,0.386,5,-9.965,0,0.166,0.272,0,0.107,0.55,142.133,4,https://i.scdn.co/image/ab67616d00001e02167c4f8605353a084d574b05
+9,2OD75xL8ZnJo5mOcB6N2nz,Imbatível,Mc Lele JP,['funk paulista'],Imbatível,1mV9h1AwhRXSjBFcYpajgY,54,222833,False,0.799,0.561,6,-7.775,1,0.0696,0.588,1.73e-05,0.155,0.564,89.986,4,https://i.scdn.co/image/ab67616d00001e02e7bc31283fde79430e5e9af5
+10,2J2Z1SkXYghSajLibnQHOa,Unstoppable,Sia,"['australian dance', 'australian pop', 'pop']",This Is Acting,5WUlDfRSoLAfcVSX1WnrxN,83,217746,False,0.468,0.779,9,-4.839,1,0.0779,0.112,0.000373,0.101,0.26,173.799,4,https://i.scdn.co/image/ab67616d00001e0249e0134c686547c28b7c999f
+11,7HjZD0NPC1hzFpjUjo45GR,Me Sinto Abençoado,Mc Poze do Rodo,['funk carioca'],Me Sinto Abençoado,28ie4NNTa2VW2QV4Zray8M,72,214235,False,0.729,0.596,0,-5.101,1,0.0607,0.463,0,0.18,0.319,117.918,4,https://i.scdn.co/image/ab67616d00001e0218c79875042f87e746cc3c48
+12,0pqnGHJpmpxLKifKRmU6WP,Believer,Imagine Dragons,"['modern rock', 'pop', 'rock']",Evolve,53XhwfbYqKCa1cC15pYq2q,90,204346,False,0.776,0.78,10,-4.374,0,0.128,0.0622,0,0.081,0.666,124.949,4,https://i.scdn.co/image/ab67616d00001e025675e83f707f1d7271e5cf8a
+13,1rqqCSm0Qe4I9rUvWncaom,High Hopes,Panic! At The Disco,['pop'],Pray for the Wicked,20JZFwl6HVl6yg8a4H3ZqK,83,190946,False,0.579,0.904,5,-2.729,1,0.0618,0.193,0,0.064,0.681,82.014,4,https://i.scdn.co/image/ab67616d00001e02c5148520a59be191eea16989
+14,0rOQyLZJ9oASgtdoDZgrmK,Tá Escrito,Grupo Revelação,"['pagode', 'pagode novo']",Ao Vivo No Morro,7yQrcdkLdBAkV7yY9fF2Hw,68,233386,False,0.579,0.913,5,-5.866,1,0.0639,0.4,0,0.37,0.942,117.129,4,https://i.scdn.co/image/ab67616d00001e0216b4a7826f816788b3f3e05e
+15,7xHWNBFm6ObGEQPaUxHuKO,The Greatest (feat. Kendrick Lamar),Sia,"['australian dance', 'australian pop', 'pop']",This Is Acting (Deluxe Version),5WUlDfRSoLAfcVSX1WnrxN,71,210226,False,0.668,0.725,1,-6.127,1,0.266,0.0102,0.000479,0.0561,0.729,191.944,4,https://i.scdn.co/image/ab67616d00001e02754b2fddebe7039fdb912837
+16,5TtTijiNYtFc6ktQARjY30,Preferida,KayBlack,"['trap brasileiro', 'trap funk']",Contradições,2h5Ha0ZiMFmOQD3iYcSXsy,85,130375,False,0.921,0.461,3,-10.0,0,0.495,0.13,0,0.125,0.659,120.035,5,https://i.scdn.co/image/ab67616d00001e02864e3512eec08829d165f184
+17,1JzMOnuyabzpRuSudDD4Cq,Brinca Demais,WIU,['trap brasileiro'],Manual de Como Amar Errado,3MrDVzg7ZXaYMyQmbDInr7,76,194400,False,0.754,0.633,5,-6.087,0,0.181,0.398,0,0.117,0.228,99.597,4,https://i.scdn.co/image/ab67616d00001e0289b79f7ca8dd72710692809d
+18,4M7bbRsVNB8iWQaX8Sbfln,That's My Way,Edi Rock,"['brazilian hip hop', 'brazilian reggae']",Contra Nós Ninguém Será,2fYAyTS2erZgqEHKHYqgi2,64,339773,False,0.768,0.754,10,-4.327,0,0.164,0.255,0,0.301,0.506,83.015,4,https://i.scdn.co/image/ab67616d00001e023abf540c3d6d6b6d2f656114
+19,27NovPIUIRrOZoCHxABJwK,INDUSTRY BABY (feat. Jack Harlow),Lil Nas X,['lgbtq+ hip hop'],INDUSTRY BABY (feat. Jack Harlow),7jVv8c5Fj3E9VhNjxT4snq,83,212000,True,0.736,0.704,3,-7.409,0,0.0615,0.0203,0,0.0501,0.894,149.995,4,https://i.scdn.co/image/ab67616d00001e02ba26678947112dff3c3158bf

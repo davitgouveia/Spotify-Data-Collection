@@ -1,21 +1,21 @@
-,track_id,track_name,artist_name,artist_genres
-0,6EtKlIQmGPB9SX8UjDJG5s,Formula,Labrinth,"['indie poptimism', 'pop']"
-1,6teD3OcUv16K09nwzLOIvV,Love Like Mine,Stela Cole,['alt z']
-2,5VIlYRF3jwbXeQ4Fkd6QSz,PƟR SɄPɄESTƟ - FUNK REMIX,Aizalan,[]
-3,1cxttvflVlYD4QA34tR5Yj,High Enough - RAC Remix,K.Flay,"['escape room', 'hip pop', 'modern alternative rock']"
-4,73vIOb4Q7YN6HeJTbscRx5,Miss You,Oliver Tree,['alternative hip hop']
-5,2K7xn816oNHJZ0aVqdQsha,Softcore,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']"
-6,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']"
-7,3dYD57lRAUcMHufyqn9GcI,Take Me To Church,Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']"
-8,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']"
-9,7EkWXAI1wn8Ii883ecd9xr,Freaks,Surf Curse,"['dreamo', 'indie surf', 'pov: indie', 'surf punk', 'vegas indie']"
-10,7sA2SKTo1QbTSSYn5YvJC4,Sharks,Imagine Dragons,"['modern rock', 'pop', 'rock']"
-11,4DRL5UtKOGqv9bUMLAeq26,2015 Electro Club Mix,DJ Collins,[]
-12,2QjOHCTQ1Jl3zawyYOpxh6,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']"
-13,6w1JyXgv5epQCZoc2MW5X4,deep end,Fousheé,['indie r&b']
-14,6CqumYhMhYE4pqElNQl4yW,Legends Never Die,Solence,[]
-15,4Wu62DoQg1ECGlDKDfo30R,Hero,Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']"
-16,1v1oIWf2Xgh54kIWuKsDf6,Runaway,AURORA,"['art pop', 'norwegian pop']"
-17,4Bce8zih5vey2GVnAbOQu6,Mad World,Bisken,[]
-18,5E30LdtzQTGqRvNd7l6kG5,Daddy Issues,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']"
-19,1s70cjkrdj9lpEeQQlmS9l,Die a King,iamjakehill,['sad rap']
+,track_id,track_name,artist_name,artist_genres,album_name,artist_id,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,album_img
+0,6EtKlIQmGPB9SX8UjDJG5s,Formula,Labrinth,"['indie poptimism', 'pop']",Euphoria (Original Score from the HBO Series),2feDdbD5araYcm6JhFHHw7,85,91869,False,0.574,0.664,11,-6.068,1,0.0409,0.0448,0.0553,0.146,0.226,144.654,4,https://i.scdn.co/image/ab67616d00001e0289c39ba1acdf33ed7acd3867
+1,6teD3OcUv16K09nwzLOIvV,Love Like Mine,Stela Cole,['alt z'],Woman of the Hour,1PlWf6idMAz65Luiq6aOY9,62,188367,False,0.716,0.705,9,-4.846,1,0.0474,0.0553,0,0.183,0.643,89.011,4,https://i.scdn.co/image/ab67616d00001e021fc2a658d5d76ef052f0dfe5
+2,5VIlYRF3jwbXeQ4Fkd6QSz,PƟR SɄPɄESTƟ - FUNK REMIX,Aizalan,[],PƟR SɄPɄESTƟ (FUNK REMIX),4Wx7dHYpC6ocma0mjto0Bf,36,173543,False,0.605,0.944,2,-0.852,1,0.0399,0.0121,0,0.166,0.117,130.034,4,https://i.scdn.co/image/ab67616d00001e0216442bfc42a169870d521aba
+3,1cxttvflVlYD4QA34tR5Yj,High Enough - RAC Remix,K.Flay,"['escape room', 'hip pop', 'modern alternative rock']",High Enough (RAC Remix),0pCNk4D3E2xtszsm6hMsWr,69,208866,False,0.324,0.681,7,-4.697,1,0.0373,0.24,0.354,0.0783,0.294,132.993,3,https://i.scdn.co/image/ab67616d00001e02402ea363d05cf3af7db2ef45
+4,73vIOb4Q7YN6HeJTbscRx5,Miss You,Oliver Tree,['alternative hip hop'],Miss You,6TLwD7HPWuiOzvXEa3oCNe,87,206000,True,0.587,0.742,6,-6.64,0,0.0529,0.0128,0.00107,0.146,0.199,145.007,4,https://i.scdn.co/image/ab67616d00001e025b1bff1152ef6d402c9b75a8
+5,2K7xn816oNHJZ0aVqdQsha,Softcore,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']",Hard To Imagine The Neighbourhood Ever Changing,77SW9BnxLY8rJ0RciFqkHh,86,206280,False,0.575,0.568,9,-5.509,0,0.03,0.0484,0.000417,0.286,0.37,93.986,4,https://i.scdn.co/image/ab67616d00001e029b6ac98a52f62d5cb473da40
+6,6K4t31amVTZDgR3sKmwUJJ,The Less I Know The Better,Tame Impala,"['australian psych', 'modern rock', 'neo-psychedelic', 'rock']",Currents,5INjqkS1o8h1imAzPqGZBb,87,216320,True,0.64,0.74,4,-4.083,1,0.0284,0.0115,0.00678,0.167,0.785,116.879,4,https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79
+7,3dYD57lRAUcMHufyqn9GcI,Take Me To Church,Hozier,"['irish singer-songwriter', 'modern rock', 'pop', 'pov: indie']",Hozier,2FXC3k01G6Gw61bmprjgqS,85,241688,False,0.566,0.664,4,-5.303,0,0.0464,0.634,0,0.116,0.437,128.945,4,https://i.scdn.co/image/ab67616d00001e027a9bf5f82e32d33d4503fe7b
+8,5XeFesFbtLpXzIVDNQP22n,I Wanna Be Yours,Arctic Monkeys,"['garage rock', 'modern rock', 'permanent wave', 'rock', 'sheffield indie']",AM,7Ln80lUS6He07XvHI8qqHH,94,183956,False,0.464,0.417,0,-9.345,0,0.0256,0.136,0.022,0.0974,0.479,67.528,4,https://i.scdn.co/image/ab67616d00001e024ae1c4c5c45aabe565499163
+9,7EkWXAI1wn8Ii883ecd9xr,Freaks,Surf Curse,"['dreamo', 'indie surf', 'pov: indie', 'surf punk', 'vegas indie']",Freaks,1gl0S9pS0Zw0qfa14rDD3D,86,147062,False,0.345,0.941,9,-9.918,1,0.0466,3.84e-05,0.633,0.0511,0.407,179.626,4,https://i.scdn.co/image/ab67616d00001e029efda673310de265a2c1cf1f
+10,7sA2SKTo1QbTSSYn5YvJC4,Sharks,Imagine Dragons,"['modern rock', 'pop', 'rock']",Mercury - Acts 1 & 2,53XhwfbYqKCa1cC15pYq2q,76,190883,False,0.927,0.642,10,-4.466,0,0.0657,0.00791,3.62e-05,0.279,0.901,123.969,4,https://i.scdn.co/image/ab67616d00001e02fc915b69600dce2991a61f13
+11,4DRL5UtKOGqv9bUMLAeq26,2015 Electro Club Mix,DJ Collins,[],2015 Electro Club Mix,4voRA5uHX268xqHBAkPSPF,13,5019840,False,0.649,0.894,1,-3.703,1,0.1,0.0105,0.000859,0.0449,0.34,127.969,4,https://i.scdn.co/image/ab67616d00001e023221457ce8bfcbb338ba276a
+12,2QjOHCTQ1Jl3zawyYOpxh6,Sweater Weather,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']",I Love You.,77SW9BnxLY8rJ0RciFqkHh,91,240400,False,0.612,0.807,10,-2.81,1,0.0336,0.0495,0.0177,0.101,0.398,124.053,4,https://i.scdn.co/image/ab67616d00001e028265a736a1eb838ad5a0b921
+13,6w1JyXgv5epQCZoc2MW5X4,deep end,Fousheé,['indie r&b'],time machine,6trIghKwHRUyxwvm66HLHH,58,141409,True,0.701,0.569,9,-7.654,0,0.215,0.749,0,0.153,0.56,124.786,4,https://i.scdn.co/image/ab67616d00001e0236efec263a855fef153a70e6
+14,6CqumYhMhYE4pqElNQl4yW,Legends Never Die,Solence,[],Legends Never Die,4fnono0JCZFAeeaecrI7kg,51,216032,False,0.456,0.952,2,-5.075,0,0.086,0.000243,0.00445,0.554,0.179,139.998,4,https://i.scdn.co/image/ab67616d00001e022de6d67490753d9d72724d30
+15,4Wu62DoQg1ECGlDKDfo30R,Hero,Martin Garrix,"['dutch edm', 'edm', 'pop', 'pop dance', 'progressive house']",Hero,60d24wfXkVzDSfLS6hyCjZ,76,160714,False,0.534,0.696,9,-5.211,0,0.0694,0.316,0,0.248,0.251,168.149,4,https://i.scdn.co/image/ab67616d00001e022aa989be7ba10bb7beee57a7
+16,1v1oIWf2Xgh54kIWuKsDf6,Runaway,AURORA,"['art pop', 'norwegian pop']",All My Demons Greeting Me As A Friend (Deluxe),1WgXqy2Dd70QQOU7Ay074N,79,248826,False,0.422,0.302,11,-9.214,1,0.0372,0.629,7.83e-05,0.104,0.123,114.089,4,https://i.scdn.co/image/ab67616d00001e02c379325088c2845fe85cd70a
+17,4Bce8zih5vey2GVnAbOQu6,Mad World,Bisken,[],Mad World,1g78KNbyP5nmgmrLnWIOYf,65,119129,False,0.787,0.685,7,-6.343,1,0.208,0.112,2.23e-06,0.0865,0.276,144.98,4,https://i.scdn.co/image/ab67616d00001e02ba44ce84ec6587bb7cfb52dc
+18,5E30LdtzQTGqRvNd7l6kG5,Daddy Issues,The Neighbourhood,"['modern alternative rock', 'modern rock', 'pop', 'pov: indie']",Wiped Out!,77SW9BnxLY8rJ0RciFqkHh,86,260173,False,0.588,0.521,10,-9.461,1,0.0329,0.0678,0.149,0.123,0.337,85.012,4,https://i.scdn.co/image/ab67616d00001e023066581d697fbdee4303d685
+19,1s70cjkrdj9lpEeQQlmS9l,Die a King,iamjakehill,['sad rap'],Spectrum,26JloX1vHxGGrGUVeMItFJ,69,169061,True,0.632,0.946,0,-2.784,0,0.277,0.192,0,0.495,0.324,125.061,3,https://i.scdn.co/image/ab67616d00001e02a7d2a32aa2ccbc9f36191f10

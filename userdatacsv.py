@@ -1,4 +1,6 @@
 import spotipy
+import csv
+import json
 import config
 import pandas as pd
 from spotipy.oauth2 import SpotifyClientCredentials
@@ -9,15 +11,10 @@ sp = spotipy.Spotify(client_credentials_manager
 =
 client_credentials_manager)
 
-# Script Workflow: 
-# 1- Searches for artists and save their ID
-# 2- Search for artists top tracks and append them
-# 3- Query further information from trackes appended
-
-# Creating Lists
 artist_name = []
 artist_id = []
 artist_genres = []
+track_id = []
 track_name = []
 popularity = []
 track_id = []
@@ -36,22 +33,18 @@ liveness = []
 valence = []
 tempo = []
 time_signature = []
+album_img = []
 
-def getTopTracks(varArtistID,varArtistName,varArtistGenre):
-    toptracks_search = sp.artist_top_tracks(varArtistID, country='US')
-    for z, tp in enumerate(toptracks_search['tracks']):
-        appendData(artist_name,varArtistName)
-        appendData(artist_id,varArtistID)
-        appendData(artist_genres,varArtistGenre)
-        appendData(track_id,tp['id'])
-        appendData(track_name,tp['name'])
-        appendData(album_name,tp['album']['name'])
-        appendData(popularity,tp['popularity'])
-        appendData(explicit,tp['explicit'])
-        appendData(duration_ms,tp['duration_ms'])
-        trackID = tp['id']
-        getTrackFeatures(trackID)
-    toptracks_search = None
+def appendData(varList, varData):
+    if varData is None:
+        varList.append('')
+    else:
+        varList.append(varData)
+
+def getArtistGenres(varArtistID):
+    artist_data = sp.artist(varArtistID)
+    var_artist_genres = artist_data['genres']
+    appendData(artist_genres, var_artist_genres)
 
 def getTrackFeatures(varTrackID):
     track_features_result = sp.audio_features(tracks=['{}'.format(varTrackID)])
@@ -71,34 +64,35 @@ def getTrackFeatures(varTrackID):
         
     print('Got Track Features \n')
 
-def appendData(varList, varData):
-    if varData is None:
-        varList.append('')
-    else:
-        varList.append(varData)
+def getTrack(varTrackID):
+    track_result = sp.track(varTrackID)
+    artistID = track_result['artists'][0]['id']
+    trackID = track_result['id']
+    appendData(artist_name,track_result['artists'][0]['name'])
+    appendData(artist_id, track_result['artists'][0]['id'])
+    appendData(track_id,track_result['id'])
+    appendData(track_name,track_result['name'])
+    appendData(album_name,track_result['album']['name'])
+    appendData(album_img, track_result['album']['images'][1]['url'])
+    appendData(popularity, track_result['popularity'])
+    appendData(explicit, track_result['explicit'])
+    appendData(duration_ms, track_result['duration_ms'])
+    getArtistGenres(artistID)
+    getTrackFeatures(trackID)
 
-# Querying data from artists
-# Set how much data will be collected in the for loop range. 
-# Eg. a range of 100 means 1000 tracks.
-i = 0
+with open('User Data/userCSV/thiagoL.csv', 'r') as file:
+    csv_reader = csv.reader(file)
 
-for x in range(0,99):
-    i = i + 1
-    print(i)
-    artist_search = sp.search(q='year:2023', type='artist', limit=1, market='US', offset=x+900)
-    print('Query done \n')
-    for y, a in enumerate(artist_search['artists']['items']):
-        artistName = a['name']
-        artistID = a['id']
-        artistGenres = a['genres']
-        getTopTracks(artistID,artistName,artistGenres)
-print('------------------------------ \nAll tracks appended \n')
-        
-# Generating Dataframe with Pandas
+    header = next(csv_reader, None)
+
+    for row in csv_reader:
+        track_ids = row[0]
+        getTrack(track_ids)
+
 a = {'track_id' : track_id, 'track_name' : track_name, 'artist_name' : artist_name, 'artist_genres' : artist_genres, 'album_name' : album_name, 'artist_id' : artist_id,
         'popularity' : popularity, 'duration_ms' : duration_ms, 'explicit' : explicit, 'danceability' : danceability,
         'energy' : energy, 'key' : key, 'loudness' : loudness, 'mode' : mode, 'speechiness' : speechiness, 'acousticness' : acousticness,
-        'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature}
+        'instrumentalness' : instrumentalness, 'liveness' : liveness, 'valence' : valence, 'tempo' : tempo, 'time_signature' : time_signature, 'album_img' : album_img}
 
 df = pd.DataFrame.from_dict(a, orient='index')
 
@@ -106,4 +100,4 @@ df = df.transpose()
 
 print(df.shape)
 
-df.to_csv('US Data/spotify23-US-11.csv', encoding='utf-8')
+df.to_csv('User Data/userCSV/userResults/top20userThiagoL.csv', encoding='utf-8')
